@@ -54,9 +54,7 @@ async function loadMonsters() {
     detailBox.innerHTML = `
         <div class="back-button">&times;</div>
         <h2>${m.name}</h2>
-        ${m.type} | ${m.alignment} | <strong>Page:</strong> ${
-      m.page || "Unknown"
-    }</p>
+        ${m.type} | ${m.alignment} | Page ${m.page || "Unknown"}</p>
         <p><strong>AC:</strong> ${m.AC} | <strong>HP:</strong> ${
       m.HP
     } | <strong>Initiative:</strong> ${m.initiative}</p>
