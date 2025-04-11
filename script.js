@@ -74,13 +74,13 @@ async function loadMonsters() {
         </div>
         <p><strong>Skills:</strong> ${m.skills}</p>
         ${
-          m.immunities
-            ? `<p><strong>Immunities:</strong> ${m.immunities}</p>`
+          m.resistances
+            ? `<p><strong>Resistances:</strong> ${m.resistances}</p>`
             : ""
         }
         ${
-          m.resistances
-            ? `<p><strong>Resistances:</strong> ${m.resistances}</p>`
+          m.immunities
+            ? `<p><strong>Immunities:</strong> ${m.immunities}</p>`
             : ""
         }
         <p><strong>Senses:</strong> ${m.senses}</p>
