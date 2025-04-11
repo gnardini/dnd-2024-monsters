@@ -62,6 +62,7 @@ async function loadMonsters() {
       m.HP
     } | <strong>Initiative:</strong> ${m.initiative}</p>
         <p><strong>Speed:</strong> ${m.speed}</p>
+        <div class="warning">⚠️ Warning! Some of these values, especially the saves might be wrong, double check with the book</div>
         <div class="abilities">
           ${Object.entries(m.abilities)
             .map(

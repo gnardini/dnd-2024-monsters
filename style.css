@@ -84,3 +84,13 @@ select {
 .clickable-row {
   cursor: pointer;
 }
+
+.warning {
+  background-color: #fff3cd;
+  color: #856404;
+  padding: 8px;
+  margin: 10px 0;
+  border-radius: 4px;
+  border-left: 4px solid #ffeeba;
+  font-weight: bold;
+}
