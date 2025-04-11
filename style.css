@@ -76,3 +76,7 @@ select {
 .back-button:hover {
   background-color: #ddd;
 }
+
+.clickable-row {
+  cursor: pointer;
+}

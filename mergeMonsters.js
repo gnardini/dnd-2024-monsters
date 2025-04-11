@@ -8,8 +8,19 @@ const files = fs.readdirSync(dir).filter(file => file.startsWith('page_') && fil
 let allMonsters = [];
 
 for (const file of files) {
+  // Extract page number from filename (assuming format is page_X.json)
+  const pageMatch = file.match(/page_(\d+)\.json/);
+  const pageNumber = pageMatch ? parseInt(pageMatch[1]) : null;
+  
   const data = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf-8'));
-  allMonsters = allMonsters.concat(data);
+  
+  // Add page property to each monster
+  const monstersWithPage = data.map(monster => ({
+    ...monster,
+    page: pageNumber + 9
+  }));
+  
+  allMonsters = allMonsters.concat(monstersWithPage);
 }
 
 fs.writeFileSync('monsters.json', JSON.stringify(allMonsters, null, 2));

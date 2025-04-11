@@ -24,6 +24,7 @@ async function loadMonsters() {
     tableBody.innerHTML = "";
     monsters.forEach((m, index) => {
       const row = document.createElement("tr");
+      row.classList.add("clickable-row");
 
       // Add cells for each possible key
       Array.from(allKeys).forEach((key) => {
