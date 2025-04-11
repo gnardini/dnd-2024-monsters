@@ -9,6 +9,10 @@ table {
   margin-top: 1rem;
 }
 
+th {
+  text-transform: capitalize;
+}
+
 th,
 td {
   padding: 8px;

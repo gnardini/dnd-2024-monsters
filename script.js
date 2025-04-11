@@ -134,9 +134,33 @@ async function loadMonsters() {
     });
   }
 
+  // Extract unique CR values and prepare for custom sorting
   const uniqueCRs = [
     ...new Set(monsters.map((m) => m.CR.split(" ")[0])),
-  ].sort();
+  ].filter((cr) => cr !== "N/A");
+
+  console.log({ uniqueCRs });
+
+  // Custom sort function for CR values
+  uniqueCRs.sort((a, b) => {
+    // Handle fractional CRs
+    if (a === "0") return -1;
+    if (b === "0") return 1;
+
+    if (a.includes("/") && !b.includes("/")) return -1;
+    if (!a.includes("/") && b.includes("/")) return 1;
+
+    if (a.includes("/") && b.includes("/")) {
+      // Compare fractional values
+      const fractionA = eval(a);
+      const fractionB = eval(b);
+      return fractionA - fractionB;
+    }
+
+    // Compare numeric values
+    return parseInt(a) - parseInt(b);
+  });
+
   uniqueCRs.forEach((cr) => {
     const option = document.createElement("option");
     option.value = cr;
