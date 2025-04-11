@@ -1,6 +1,9 @@
 async function loadMonsters() {
   const response = await fetch("monsters.json");
   const monsters = await response.json();
+  
+  // Sort monsters alphabetically by name
+  monsters.sort((a, b) => a.name.localeCompare(b.name));
 
   const tableBody = document.querySelector("#monsterTable tbody");
   const tableHead = document.querySelector("#monsterTable thead tr");
