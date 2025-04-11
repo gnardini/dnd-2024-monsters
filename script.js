@@ -90,21 +90,21 @@ async function loadMonsters() {
         <p><strong>Senses:</strong> ${m.senses}</p>
         <p><strong>Languages:</strong> ${m.languages}</p>
         <p><strong>CR:</strong> ${m.CR}</p>
-        ${m.traits ? `<p><strong>Traits:</strong><br/>${m.traits}</p>` : ""}
-        ${m.actions ? `<p><strong>Actions:</strong><br/>${m.actions}</p>` : ""}
+        ${m.traits ? `<p><h3><strong><em>Traits:</em></strong></h3>${m.traits}</p>` : ""}
+        ${m.actions ? `<p><h3><strong><em>Actions:</em></strong></h3>${m.actions}</p>` : ""}
         ${
           m.bonus_actions
-            ? `<p><strong>Bonus Actions:</strong><br/>${m.bonus_actions}</p>`
+            ? `<p><h3><strong><em>Bonus Actions:</em></strong></h3>${m.bonus_actions}</p>`
             : ""
         }
         ${
           m.reactions
-            ? `<p><strong>Reactions:</strong><br/>${m.reactions}</p>`
+            ? `<p><h3><strong><em>Reactions:</em></strong></h3>${m.reactions}</p>`
             : ""
         }
         ${
           m.legendary_actions
-            ? `<p><strong>Legendary Actions:</strong><br/>${m.legendary_actions}</p>`
+            ? `<p><h3><strong><em>Legendary Actions:</em></strong></h3>${m.legendary_actions}</p>`
             : ""
         }
       `;
