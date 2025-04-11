@@ -3,23 +3,40 @@ async function loadMonsters() {
   const monsters = await response.json();
 
   const tableBody = document.querySelector("#monsterTable tbody");
+  const tableHead = document.querySelector("#monsterTable thead tr");
   const searchInput = document.getElementById("search");
   const crFilter = document.getElementById("crFilter");
   const detailBox = document.getElementById("monsterDetail");
   const monsterTable = document.getElementById("monsterTable");
   const searchContainer = document.querySelector("#search").parentElement;
 
+  const allKeys = ["name", "type", "alignment", "CR", "HP", "AC"];
+
+  // Create table headers
+  tableHead.innerHTML = "";
+  Array.from(allKeys).forEach((key) => {
+    const th = document.createElement("th");
+    th.textContent = key;
+    tableHead.appendChild(th);
+  });
+
   function render(monsters) {
     tableBody.innerHTML = "";
     monsters.forEach((m, index) => {
       const row = document.createElement("tr");
-      row.innerHTML = `
-          <td>${m.name}</td>
-          <td>${m.type}</td>
-          <td>${m.CR}</td>
-          <td>${m.HP}</td>
-          <td>${m.AC}</td>
-        `;
+
+      // Add cells for each possible key
+      Array.from(allKeys).forEach((key) => {
+        const cell = document.createElement("td");
+        if (m.hasOwnProperty(key)) {
+          cell.textContent = m[key];
+        } else {
+          cell.textContent = "-";
+          cell.classList.add("missing-data");
+        }
+        row.appendChild(cell);
+      });
+
       row.addEventListener("click", () => showDetails(m));
       tableBody.appendChild(row);
     });
@@ -30,7 +47,7 @@ async function loadMonsters() {
     monsterTable.classList.add("hidden");
     searchInput.classList.add("hidden");
     crFilter.classList.add("hidden");
-    
+
     // Show the detail box
     detailBox.classList.remove("hidden");
     detailBox.innerHTML = `
@@ -68,16 +85,16 @@ async function loadMonsters() {
             : ""
         }
       `;
-      
+
     // Add event listener to the back button
     const backButton = detailBox.querySelector(".back-button");
     backButton.addEventListener("click", goBackToTable);
   }
-  
+
   function goBackToTable() {
     // Hide the detail box
     detailBox.classList.add("hidden");
-    
+
     // Show the table and filters
     monsterTable.classList.remove("hidden");
     searchInput.classList.remove("hidden");
