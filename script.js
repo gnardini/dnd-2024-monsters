@@ -54,8 +54,8 @@ async function loadMonsters() {
     detailBox.innerHTML = `
         <div class="back-button">&times;</div>
         <h2>${m.name}</h2>
-        <p><strong>Type:</strong> ${m.type} | <strong>Alignment:</strong> ${
-      m.alignment
+        ${m.type} | ${m.alignment} | <strong>Page:</strong> ${
+      m.page || "Unknown"
     }</p>
         <p><strong>AC:</strong> ${m.AC} | <strong>HP:</strong> ${
       m.HP
@@ -75,16 +75,36 @@ async function loadMonsters() {
             .join("")}
         </div>
         <p><strong>Skills:</strong> ${m.skills}</p>
-        ${m.immunities ? `<p><strong>Immunities:</strong> ${m.immunities}</p>` : ""}
-        ${m.resistances ? `<p><strong>Resistances:</strong> ${m.resistances}</p>` : ""}
+        ${
+          m.immunities
+            ? `<p><strong>Immunities:</strong> ${m.immunities}</p>`
+            : ""
+        }
+        ${
+          m.resistances
+            ? `<p><strong>Resistances:</strong> ${m.resistances}</p>`
+            : ""
+        }
         <p><strong>Senses:</strong> ${m.senses}</p>
         <p><strong>Languages:</strong> ${m.languages}</p>
         <p><strong>CR:</strong> ${m.CR}</p>
         ${m.traits ? `<p><strong>Traits:</strong><br/>${m.traits}</p>` : ""}
         ${m.actions ? `<p><strong>Actions:</strong><br/>${m.actions}</p>` : ""}
-        ${m.bonus_actions ? `<p><strong>Bonus Actions:</strong><br/>${m.bonus_actions}</p>` : ""}
-        ${m.reactions ? `<p><strong>Reactions:</strong><br/>${m.reactions}</p>` : ""}
-        ${m.legendary_actions ? `<p><strong>Legendary Actions:</strong><br/>${m.legendary_actions}</p>` : ""}
+        ${
+          m.bonus_actions
+            ? `<p><strong>Bonus Actions:</strong><br/>${m.bonus_actions}</p>`
+            : ""
+        }
+        ${
+          m.reactions
+            ? `<p><strong>Reactions:</strong><br/>${m.reactions}</p>`
+            : ""
+        }
+        ${
+          m.legendary_actions
+            ? `<p><strong>Legendary Actions:</strong><br/>${m.legendary_actions}</p>`
+            : ""
+        }
       `;
 
     // Add event listener to the back button
