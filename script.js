@@ -1,7 +1,7 @@
 async function loadMonsters() {
   const response = await fetch("monsters.json");
-  const monsters = await response.json();
-  
+  const monsters = (await response.json()).filter((m) => m.name);
+
   // Sort monsters alphabetically by name
   monsters.sort((a, b) => a.name.localeCompare(b.name));
 
@@ -90,8 +90,16 @@ async function loadMonsters() {
         <p><strong>Senses:</strong> ${m.senses}</p>
         <p><strong>Languages:</strong> ${m.languages}</p>
         <p><strong>CR:</strong> ${m.CR}</p>
-        ${m.traits ? `<p><h3><strong><em>Traits:</em></strong></h3>${m.traits}</p>` : ""}
-        ${m.actions ? `<p><h3><strong><em>Actions:</em></strong></h3>${m.actions}</p>` : ""}
+        ${
+          m.traits
+            ? `<p><h3><strong><em>Traits:</em></strong></h3>${m.traits}</p>`
+            : ""
+        }
+        ${
+          m.actions
+            ? `<p><h3><strong><em>Actions:</em></strong></h3>${m.actions}</p>`
+            : ""
+        }
         ${
           m.bonus_actions
             ? `<p><h3><strong><em>Bonus Actions:</em></strong></h3>${m.bonus_actions}</p>`
@@ -140,10 +148,8 @@ async function loadMonsters() {
 
   // Extract unique CR values and prepare for custom sorting
   const uniqueCRs = [
-    ...new Set(monsters.map((m) => m.CR.split(" ")[0])),
+    ...new Set(monsters.map((m) => m.CR?.split(" ")?.[0] ?? "N/A")),
   ].filter((cr) => cr !== "N/A");
-
-  console.log({ uniqueCRs });
 
   // Custom sort function for CR values
   uniqueCRs.sort((a, b) => {

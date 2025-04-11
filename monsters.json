@@ -23310,59 +23310,6 @@
     "page": 79
   },
   {
-    "name": "",
-    "type": "",
-    "alignment": "",
-    "AC": "",
-    "HP": "",
-    "initiative": "",
-    "speed": "",
-    "abilities": {
-      "STR": {
-        "total": "",
-        "mod": "",
-        "save": ""
-      },
-      "DEX": {
-        "total": "",
-        "mod": "",
-        "save": ""
-      },
-      "CON": {
-        "total": "",
-        "mod": "",
-        "save": ""
-      },
-      "INT": {
-        "total": "",
-        "mod": "",
-        "save": ""
-      },
-      "WIS": {
-        "total": "",
-        "mod": "",
-        "save": ""
-      },
-      "CHA": {
-        "total": "",
-        "mod": "",
-        "save": ""
-      }
-    },
-    "skills": "",
-    "resistances": "",
-    "immunities": "",
-    "senses": "",
-    "languages": "",
-    "CR": "",
-    "traits": "",
-    "actions": "",
-    "bonus_actions": "",
-    "legendary_actions": "",
-    "reactions": "",
-    "page": 79
-  },
-  {
     "name": "Ancient Copper Dragon",
     "type": "Gargantuan Dragon (Metallic)",
     "alignment": "Chaotic Good",
