@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Githyanki Knight",
+    "type": "Medium Aberration (Gith)",
+    "alignment": "Lawful Evil",
+    "AC": "18",
+    "HP": "117 (18d8 + 36)",
+    "initiative": "+5 (15)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "19",
+        "mod": "+4",
+        "save": "+6"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+5"
+      },
+      "CON": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+5"
+      },
+      "INT": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+5"
+      },
+      "WIS": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+5"
+      },
+      "CHA": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+5"
+      }
+    },
+    "skills": "Arcana +5, History +5, Perception +6",
+    "senses": "Passive Perception 12",
+    "languages": "Common, Gith",
+    "CR": "8 (XP 3,900; PB +3)",
+    "traits": "<p>Gear Plate Armor</p>",
+    "actions": "<p><strong>Multiattack.</strong> The githyanki makes three Silver Sword attacks. It can replace one attack with a use of Spellcasting to cast Telekinesis if available.</p><p><strong>Silver Sword.</strong> Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage plus 14 (4d6) Psychic damage. <em>Critical Hit:</em> If the target is in an astral body (as with the <em>Astral Projection</em> spell), the githyanki can cut the silvery cord that tethers the target to its material body instead of dealing damage.</p><p><strong>Spellcasting.</strong> The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13):</p><h5>At Will:</h5><p>Mage Hand (the hand is Invisible)</p><h5>2/Day Each:</h5><p> Nondetection (self only), Tongues</p><h5>1/Day Each:</h5><p> Plane Shift, Telekinesis</p>",
+    "bonus_actions": "<p><strong>Misty Step (2/Day).</strong> The githyanki casts <em>Misty Step</em>, requiring no spell components and using the same spellcasting ability as Spellcasting.</p>"
+  },
+  {
+    "name": "Githyanki Dracomancer",
+    "type": "Medium Aberration (Gith)",
+    "alignment": "Lawful Evil",
+    "AC": "18",
+    "HP": "255 (30d8 + 120)",
+    "initiative": "+8 (18)",
+    "speed": "30 ft., Fly 30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "10",
+        "mod": "0",
+        "save": "+0"
+      },
+      "DEX": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+8"
+      },
+      "CON": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+9"
+      },
+      "INT": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+9"
+      },
+      "WIS": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+7"
+      },
+      "CHA": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+9"
+      }
+    },
+    "skills": "Arcana +10, Perception +8",
+    "senses": "Blindsight 30 ft.; Passive Perception 18",
+    "languages": "Common, Draconic, Gith",
+    "CR": "16 (XP 15,000; PB +5)",
+    "actions": "<p><strong>Multiattack.</strong> The githyanki makes three Draconic Strike attacks.</p><p><strong>Draconic Strike.</strong> Melee or Ranged Attack Roll: +10, reach 10 ft. or range 120 ft. Hit: 12 (2d6 + 5) Slashing damage plus 17 (5d6) Fire damage, and the target has the Frightened condition until the start of the githyanki's next turn.</p><p><strong>Conjured Dragon's Breath (Recharge 5–6).</strong> Dexterity Saving Throw: DC 18, each creature in a 90-foot Cone. <em>Failure:</em> 27 (6d8) Fire damage plus 27 (6d8) Force damage. <em>Success:</em> Half damage.</p><p><strong>Spellcasting.</strong> The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 18, +10 to hit with spell attacks):</p><h5>At Will:</h5><p>Mage Hand (the hand is Invisible)</p><h5>2/Day Each:</h5><p> Nondetection (self only), Plane Shift, Tongues</p>",
+    "bonus_actions": "<p><strong>Misty Step (3/Day).</strong> The githyanki casts <em>Misty Step</em>, requiring no spell components and using the same spellcasting ability as Spellcasting.</p>"
+  }
+]

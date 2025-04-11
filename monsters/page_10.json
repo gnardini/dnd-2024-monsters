@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Arcanaloth",
+    "type": "Medium Fiend (Yugoloth)",
+    "alignment": "Neutral Evil",
+    "AC": "17 (natural armor)",
+    "HP": "175 (27d8 + 54)",
+    "initiative": "+5 (15)",
+    "speed": "30 ft., Fly 30 ft. (hover)",
+    "abilities": {
+      "STR": {
+        "total": "17",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "DEX": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+5"
+      },
+      "CON": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+6"
+      },
+      "INT": {
+        "total": "20",
+        "mod": "+5",
+        "save": "+9"
+      },
+      "WIS": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+7"
+      },
+      "CHA": {
+        "total": "17",
+        "mod": "+3",
+        "save": "+3"
+      }
+    },
+    "skills": "Arcana +9, Deception +7, Insight +7, Perception +7",
+    "resistances": "Cold, Fire, Lightning",
+    "immunities": "Acid, Poison; Charmed, Poisoned",
+    "senses": "Truesight 120 ft.; Passive Perception 17",
+    "languages": "All; telepathy 120 ft.",
+    "CR": "12 (XP 8,400; PB +4)",
+    "traits": "<p><strong>Fiendish Restoration.</strong> If the arcanaloth dies outside Gehenna, its body dissolves into ichor, and it gains a new body instantly and revives with all its Hit Points in Gehenna.</p> <p><strong>Magic Resistance.</strong> The arcanaloth has Advantage on saving throws against spells and other magical effects.</p> <p><strong>Soul Tome.</strong> The arcanaloth has a magic tome. While holding or carrying the tome, the arcanaloth can use its Banishing Claw action.</p><p>The tome has AC 17; HP 35; and Immunity to Necrotic, Poison, and Psychic damage. The tome regains all its Hit Points at the end of every turn, but it turns to dust if reduced to 0 Hit Points or when the arcanaloth dies. If the tome is destroyed, the arcanaloth can create a new one when it finishes a Short or Long Rest.</p>",
+    "actions": "<p><strong>Multiattack.</strong> The arcanaloth makes three Fiendish Burst attacks. It can replace one attack with a Banishing Claw attack.</p><p><strong>Fiendish Burst.</strong> Melee or Ranged Attack Roll: +9, reach 5 ft. or range 120 ft. Hit: 31 (4d12 + 5) Necrotic damage.</p><p><strong>Banishing Claw (Requires Soul Tome).</strong> Melee Attack Roll: +9, reach 5 ft. Hit: 10 (2d4 + 5) Slashing damage plus 19 (3d12) Psychic damage. If the target is a creature, it is subjected to the following effect. <em><strong>Charisma Saving Throw:</strong> DC 17. Failure:</em> The target is trapped in a demiplane inside the Soul Tome. While trapped here, the target has the Incapacitated condition. At the end of each of its turns, the target repeats the save, escaping the tome on a success. When the target escapes, it appears in the space it left or, if that space is occupied, the nearest unoccupied space.<br>If the target fails three of these saves while in the demiplane, it becomes bound to the tome and can escape only if the tome is reduced to 0 Hit Points.</p><p><strong>Spellcasting.</strong> The arcanaloth casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 17):</p><p><em>At Will:</em> <em>Alter Self, Detect Magic, Identy, Mage Hand, Prestidigitation</em></p> <p><em>1/Day Each:</em> <em>Contact Other Plane, Detect Thoughts, Dimension Door, Mind Blank</em></p>",
+    "bonus_actions": "<p><strong>Teleport.</strong> The arcanaloth teleports up to 30 feet to an unoccupied space it can see.</p>",
+    "reactions": "<p><strong>Couterspell.</strong> The arcanaloth casts <em>Couterspell</em> in response to that spell’s trigger, using the same spellcasting ability as Spellcasting.</p>"
+  }
+]

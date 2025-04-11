@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Commoner",
+    "type": "Medium or Small Humanoid",
+    "alignment": "Neutral",
+    "AC": "10",
+    "HP": "4 (1d8)",
+    "initiative": "+0 (10)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "DEX": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CON": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "INT": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "WIS": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CHA": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      }
+    },
+    "skills": "Passive Perception 10",
+    "senses": "Passive Perception 10",
+    "languages": "Common",
+    "CR": "0 (XP 10; PB +2)",
+    "traits": "<b>Training.</b> The commoner has proficiency in one skill of the DM’s choice and has Advantage whenever it makes an ability check using that skill.",
+    "actions": "<b>Club.</b> Melee Attack: Roll +2, reach 5 ft. Hit: 2 (1d4) Bludgeoning damage."
+  }
+]

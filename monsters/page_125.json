@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Githyanki Warrior",
+    "type": "Medium Aberration (Gith)",
+    "alignment": "Lawful Evil",
+    "AC": "17",
+    "HP": "49 (9d8 + 9)",
+    "initiative": "+4 (14)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "CON": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+2"
+      },
+      "INT": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+3"
+      },
+      "WIS": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+3"
+      },
+      "CHA": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      }
+    },
+    "skills": "",
+    "senses": "Passive Perception 11",
+    "languages": "Common, Gith",
+    "CR": "3 (XP 700; PB +2)",
+    "traits": "Gear Half Plate Armor",
+    "actions": "<strong>Multiattack.</strong> The githyanki makes two Psi Blade attacks.<br><strong>Psi Blade.</strong> <em>Melee Attack Roll:</em> +4, reach 5 ft.: Hit: 9 (2d6 + 2) Slashing damage plus 7 (2d6) Psychic damage.<br><strong>Spellcasting.</strong> The githyanki casts one of the following spells, requiring no spell components, and using Intelligence as the spellcasting ability:<br><em>At Will:</em> <em>Mage Hand</em> (the hand is invisible)<br><em>2/Day Each:</em> <em>Nondetection</em> (self only).",
+    "bonus_actions": "<strong>Misty Step (2/Day).</strong> The githyanki casts <em>Misty Step</em>, requiring no spell components and using the same spellcasting ability as Spellcasting."
+  }
+]

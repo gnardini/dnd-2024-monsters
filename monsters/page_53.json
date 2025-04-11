@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Bugbear Stalker",
+    "type": "Medium Fey (Goblinoid)",
+    "alignment": "Chaotic Evil",
+    "AC": "15",
+    "HP": "65 (10d8 + 20)",
+    "initiative": "+2 (12)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "17",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "CON": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "INT": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "WIS": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+3"
+      },
+      "CHA": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      }
+    },
+    "skills": "Stealth +6, Survival +3",
+    "senses": "Darkvision 60 ft.; Passive Perception 11",
+    "languages": "Common, Goblin",
+    "CR": "3 (XP 700; PB +2)",
+    "traits": "<b>Abduct.</b> The bugbear needn't spend extra movement to move a creature it is grappling.",
+    "actions": "<b>Multiattack.</b> The bugbear makes two Javelin or Morningstar attacks.<br><b>Javelin.</b> Melee or Ranged Attack Roll: +5, reach 10 ft. or range 30/120 ft. Hit: 13 (3d6 + 3) Piercing damage.<br><b>Morningstar.</b> Melee Attack Roll: +5 (with Advantage if the target is Grappled by the bugbear), reach 10 ft. Hit: 12 (2d8 + 3) Piercing damage.",
+    "bonus_actions": "<b>Quick Grapple.</b> Dexterity Saving Throw: DC 13, one Medium or smaller creature the bugbear can see within 10 feet. <i>Failure:</i> The target has the Grappled condition (escape DC 13)."
+  },
+  {
+    "name": "Bugbear Warrior",
+    "type": "Medium Fey (Goblinoid)",
+    "alignment": "Chaotic Evil",
+    "AC": "14",
+    "HP": "33 (6d8 + 6)",
+    "initiative": "+2 (12)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "CON": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "INT": {
+        "total": "8",
+        "mod": "-1",
+        "save": "-1"
+      },
+      "WIS": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CHA": {
+        "total": "9",
+        "mod": "-1",
+        "save": "-1"
+      }
+    },
+    "skills": "Stealth +6, Survival +2",
+    "senses": "Darkvision 60 ft.; Passive Perception 10",
+    "languages": "Common, Goblin",
+    "CR": "1 (XP 200; PB +2)",
+    "traits": "<b>Abduct.</b> The bugbear needn't spend extra movement to move a creature it is grappling.",
+    "actions": "<b>Grab.</b> Melee Attack Roll: +4, reach 10 ft. Hit: 9 (2d6 + 2) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12).<br><b>Light Hammer.</b> Melee or Ranged Attack Roll: +4 (with Advantage if the target is Grappled by the bugbear), reach 10 ft. or range 20/60 ft. Hit: 9 (3d4 + 2) Bludgeoning damage."
+  }
+]

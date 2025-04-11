@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Empyrean Iota",
+    "type": "Medium Celestial or Fiend (Titan)",
+    "alignment": "Neutral",
+    "AC": "13",
+    "HP": "22 (5d8)",
+    "initiative": "+2 (12)",
+    "speed": "5 ft., Fly 30 ft. (hover)",
+    "abilities": {
+      "STR": {
+        "total": "1",
+        "mod": "-5",
+        "save": "-5"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "CON": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "INT": {
+        "total": "5",
+        "mod": "-3",
+        "save": "-3"
+      },
+      "WIS": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "CHA": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      }
+    },
+    "skills": "History +4, Insight +5, Perception +5",
+    "resistances": "Bludgeoning, Piercing, Slashing",
+    "immunities": "Prone",
+    "senses": "Truesight 30 ft.; Passive Perception 15",
+    "languages": "All",
+    "CR": "1 (XP 200; PB +2)",
+    "traits": "<b>Incorporeal Movement.</b> The empyrean can move through other creatures and objects as if they were Difficult Terrain. It takes 1 (1d10) Force damage if it ends its turn inside an object.<br><b>Magic Resistance.</b> The empyrean has Advantage on saving throws against spells and other magical effects.",
+    "actions": "<b>Otherworldly Strike.</b> Melee or Ranged Attack Roll: +5, reach 5 ft. or range 30 ft.; Hit: 7 (1d8 + 3) Necrotic or Radiant damage (empyrean's choice).<br><b>Spellcasting.</b> The empyrean casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability: 1/Day Each: <i>Bless, Lesser Restoration</i> (as an action)",
+    "bonus_actions": "<b>Healing Word (1/Day).</b> The empyrean casts <i>Healing Word</i>, using the same spellcasting ability as Spellcasting."
+  }
+]

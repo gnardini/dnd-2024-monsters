@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Gargoyle",
+    "type": "Medium Elemental, Chaotic Evil",
+    "alignment": "",
+    "AC": "15",
+    "HP": "67 (3d8 + 27)",
+    "initiative": "+2 (12)",
+    "speed": "30 ft., Fly 60 ft.",
+    "abilities": {
+      "STR": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "DEX": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+0"
+      },
+      "CON": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "INT": {
+        "total": "6",
+        "mod": "-2",
+        "save": "-2"
+      },
+      "WIS": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CHA": {
+        "total": "7",
+        "mod": "-2",
+        "save": "-2"
+      }
+    },
+    "skills": "Stealth +4",
+    "immunities": "Poison; Exhaustion, Petrified, Poisoned",
+    "senses": "Darkvision 60 ft.; Passive Perception 10",
+    "languages": "Primordial (Terran)",
+    "CR": "2 (XP 450; PB +2)",
+    "traits": "<b>Flyby.</b> The gargoyle doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.",
+    "actions": "<b>Multiattack.</b> The gargoyle makes two Claw attacks.<br><b>Claw.</b> Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Slashing damage."
+  }
+]

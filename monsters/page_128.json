@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Githzerai Zerth",
+    "type": "Medium Aberration (Gith), Lawful Neutral",
+    "AC": "17",
+    "HP": "84 (13d8 + 26)",
+    "initiative": "+7 (17)",
+    "speed": "40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+4"
+      },
+      "DEX": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+7"
+      },
+      "CON": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "INT": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+6"
+      },
+      "WIS": {
+        "total": "17",
+        "mod": "+3",
+        "save": "+6"
+      },
+      "CHA": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      }
+    },
+    "skills": "Arcana +6, Insight +6, Perception +6",
+    "senses": "Passive Perception 16",
+    "languages": "Common, Gith",
+    "CR": "6 (XP 2,300; PB +3)",
+    "actions": "<b>Multiattack.</b> The githzerai makes two Psi Strike attacks.<br><b>Psi Strike.</b> Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning damage plus 13 (3d8) Psychic damage.<br><b>Spellcasting.</b> The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 14):<ul><li>At Will: Mage Hand (the hand is Invisible)</li><li>1/Day Each: Phantasmal Killer (level 6 version), Plane Shift, See Invisibility</li></ul>",
+    "bonus_actions": "<b>Psi-Powered Leap (2/Day).</b> The githyanki casts Jump, requiring no spell components and using the same spellcasting ability as Spellcasting.",
+    "reactions": "<b>Psionic Defense (2/Day).</b> The githyanki casts Feather Fall or Shield in response to the spell's trigger, requiring no spell components and using the same spellcasting ability as Spellcasting."
+  },
+  {
+    "name": "Githzerai Psion",
+    "type": "Medium Aberration (Gith), Lawful Neutral",
+    "AC": "18",
+    "HP": "169 (26d8 + 52)",
+    "initiative": "+8 (18)",
+    "speed": "40 ft., Fly 40 ft. (hover)",
+    "abilities": {
+      "STR": {
+        "total": "12",
+        "mod": " +1",
+        "save": " +4"
+      },
+      "DEX": {
+        "total": "18",
+        "mod": "+4",
+        "save": " +8"
+      },
+      "CON": {
+        "total": "15",
+        "mod": " +2",
+        "save": " +4"
+      },
+      "INT": {
+        "total": "16",
+        "mod": "+3",
+        "save": " +8"
+      },
+      "WIS": {
+        "total": "18",
+        "mod": " +4",
+        "save": " +8"
+      },
+      "CHA": {
+        "total": "14",
+        "mod": " +2",
+        "save": " +2"
+      }
+    },
+    "skills": "Arcana +8, Insight +8, Perception +8",
+    "senses": "Passive Perception 18",
+    "languages": "Common, Gith",
+    "CR": "12 (XP 8,400; PB +4)",
+    "actions": "<b>Multiattack.</b> The githzerai makes three Psychic Warp attacks.<br><b>Psychic Warp.</b> Melee or Ranged Attack Roll: +8, reach 5 ft. or range 120 ft. Hit: 26 (4d10 + 4) Psychic damage, and the target has the githzerai's choice of (A) the Charmed condition until the start of the githzerai's next turn or (B) the Prone condition, provided the target is a Large or smaller creature.<br><b>Spellcasting.</b> The githzerai casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 16):<ul><li>At Will: Mage Hand (the hand is Invisible)</li><li>1/Day Each: Plane Shift, See Invisibility</li></ul>",
+    "reactions": "<b>Psionic Defense.</b> The githyanki casts Feather Fall or Shield in response to the spell's trigger, requiring no spell components and using the same spellcasting ability as Spellcasting."
+  }
+]

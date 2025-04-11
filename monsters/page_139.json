@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Gorgon",
+    "type": "Large Construct",
+    "alignment": "Unaligned",
+    "AC": "19",
+    "HP": "114 (12d10 + 48)",
+    "initiative": "+0 (10)",
+    "speed": "40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "20",
+        "mod": "+5",
+        "save": "+5"
+      },
+      "DEX": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CON": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+6"
+      },
+      "INT": {
+        "total": "2",
+        "mod": "-4",
+        "save": "-4"
+      },
+      "WIS": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CHA": {
+        "total": "7",
+        "mod": "-2",
+        "save": "-2"
+      }
+    },
+    "skills": "Perception +7",
+    "immunities": "Exhaustion, Petrified",
+    "senses": "Darkvision 60 ft.; Passive Perception 17",
+    "languages": "None",
+    "CR": "5 (XP 1,800; PB +3)",
+    "actions": "<b>Gore.</b> Melee Attack: Roll: +8, reach 5 ft. Hit: 18 (2d12 + 5) Piercing damage. If the target is a Large or smaller creature and the gorgon moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition. <br/><br/><b>Petrifying Breath (Recharge 5–6).</b> Constitution Saving Throw: DC 15, each creature in a 30-foot Cone. First Failure: The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. Second Failure: The target has the Petrified condition instead of the Restrained condition.",
+    "bonus_actions": "<b>Trample.</b> Dexterity Saving Throw: DC 16, one creature within 5 feet that has the Prone condition. Failure: 16 (2d10 + 5) Bludgeoning damage. Success: Half damage."
+  }
+]

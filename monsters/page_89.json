@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Displacer Beast",
+    "type": "Large Monstrosity",
+    "alignment": "Lawful Evil",
+    "AC": "13",
+    "HP": "76 (9d10 + 27)",
+    "initiative": "+4 (14)",
+    "speed": "40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "18",
+        "mod": "+4",
+        "save": ""
+      },
+      "DEX": {
+        "total": "15",
+        "mod": "+2",
+        "save": ""
+      },
+      "CON": {
+        "total": "16",
+        "mod": "+3",
+        "save": ""
+      },
+      "INT": {
+        "total": "6",
+        "mod": "-2",
+        "save": ""
+      },
+      "WIS": {
+        "total": "12",
+        "mod": "+1",
+        "save": ""
+      },
+      "CHA": {
+        "total": "8",
+        "mod": "-1",
+        "save": ""
+      }
+    },
+    "skills": "None",
+    "senses": "Darkvision 60 ft.; Passive Perception 11",
+    "languages": "Understands Sylvan but can’t speak",
+    "CR": "3 (XP 700; PB +2)",
+    "traits": "<b>Avoidance.</b> If the displacer beast is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the save and half damage if it fails. It can’t use this trait if it has the Incapacitated condition.<br><b>Displacement.</b> Attack rolls against the displacer beast have Disadvantage, since it projects an illusion that makes it appear to be near its actual location. This trait is suppressed while the displacer beast has the Incapacitated condition.",
+    "actions": "<b>Multiattack.</b> The displacer beast makes one Rend attack and one Tentacle attack.<br><b>Rend.</b> Melee Attack Roll: +6, reach 5 feet. <i>Hit:</i> 9 (1d10 + 4) Slashing damage. If target is a Large or smaller creature, it has the Prone condition.<br><b>Tentacle.</b> Melee Attack Roll: +6, reach 10 feet. <i>Hit:</i> 11 (2d6 + 4) Piercing damage."
+  }
+]

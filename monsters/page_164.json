@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Hook Horror",
+    "type": "Large Monstrosity",
+    "alignment": "Neutral",
+    "AC": "15",
+    "HP": "75 (10d10 + 20)",
+    "initiative": "+0 (10)",
+    "speed": "30 ft., Climb 30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+4"
+      },
+      "DEX": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CON": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "INT": {
+        "total": "6",
+        "mod": "-2",
+        "save": "-2"
+      },
+      "WIS": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CHA": {
+        "total": "7",
+        "mod": "-2",
+        "save": "-2"
+      }
+    },
+    "skills": "Perception +5",
+    "senses": "Blindsight 60 ft., Darkvision 120 ft., Passive Perception 15",
+    "languages": "Hook Horror",
+    "CR": "3 (XP 700; PB +2)",
+    "actions": "<b>Multiattack.</b> The hook horror makes two Hook attacks.<br><b>Hook.</b> Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature, the hook horror moves the target 5 feet straight toward or away from itself."
+  }
+]

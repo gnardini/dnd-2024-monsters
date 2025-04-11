@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Elemental Cultist",
+    "type": "Medium or Small Humanoid",
+    "alignment": "Chaotic Evil",
+    "AC": "16",
+    "HP": "135 (18d8 + 54)",
+    "initiative": "+4 (14)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+4"
+      },
+      "DEX": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CON": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+6"
+      },
+      "INT": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "WIS": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+8"
+      },
+      "CHA": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      }
+    },
+    "skills": "Arcana +5, Perception +7, Religion +5",
+    "senses": "Passive Perception 17",
+    "languages": "Common, Primordial",
+    "CR": "8 (3,900; PB +3)",
+    "traits": "Gear Chain Mail",
+    "actions": "<b>Multiattack.</b> The cultist makes three attacks, using Elemental Flail or Elemental Claw in any combination.<br/><b>Elemental Flail.</b> Melee Attack Roll: +7, reach 5 ft. Hit: 25 (6d6 + 4) damage of a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder.<br/><b>Elemental Claw.</b> Ranged Attack Roll: +7, range 120 ft. Hit: 22 (4d10) damage of a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder. If the target is a Medium or smaller creature, the cultist moves the target up to 10 feet straight toward or away from itself.<br/><b>Spellcasting.</b> The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 15):<br/>At Will: Elementalism, Mage Hand",
+    "reactions": "<b>Elemental Absorption (1/Day).</b> Trigger: The cultist takes Acid, Cold, Fire, Lightning, or Thunder damage. Response: The cultist gives itself Resistance to that instance of damage and gains 10 Temporary Hit Points."
+  },
+  {
+    "name": "Fiend Cultist",
+    "type": "Medium or Small Humanoid",
+    "alignment": "Neutral Evil",
+    "AC": "16",
+    "HP": "127 (17d8 + 51)",
+    "initiative": "+5 (15)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "19",
+        "mod": "+4",
+        "save": "+4"
+      },
+      "DEX": {
+        "total": "15",
+        "mod": "+2",
+        "save": "-"
+      },
+      "CON": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+6"
+      },
+      "INT": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "WIS": {
+        "total": "18",
+        "mod": "+4",
+        "save": "-"
+      },
+      "CHA": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      }
+    },
+    "skills": "Perception +7, Religion +4",
+    "senses": "Darkvision 90 ft. (unimpeded by magical Darkness); Passive Perception 17",
+    "languages": "Abyssal, Common, Infernal",
+    "CR": "8 (3,900; PB +3)",
+    "traits": "Gear Brestplate",
+    "actions": "<b>Multiattack.</b> The cultist makes three Pact Axe attacks.<br/><b>Pact Axe.</b> Melee Attack Roll: +7, reach 5 ft. Hit: 10 (1d12 + 4) Slashing damage plus 13 (3d8) Fire damage.<br/><b>Spellcasting.</b> The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 15, +7 to hit with spell attacks):<br/>At Will: Scorching Ray (level 5 version), Thaumaturgy<br/>2/Day: Fireball (level 6 version)",
+    "reactions": "<b>Hellish Rebuke.</b> The cultist casts Hellish Rebuke in response to that spell’s trigger, using the same spellcasting ability as Spellcasting."
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Ancient Black Dragon",
+    "type": "Gargantuan Dragon (Chromatic)",
+    "alignment": "Chaotic Evil",
+    "AC": "22",
+    "HP": "367 (21d20 + 147)",
+    "initiative": "+16 (26)",
+    "speed": "40 ft., Fly 80 ft., Swim 40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "27",
+        "mod": "+8",
+        "save": "+14"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+9"
+      },
+      "CON": {
+        "total": "25",
+        "mod": "+7",
+        "save": "+14"
+      },
+      "INT": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+7"
+      },
+      "WIS": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+9"
+      },
+      "CHA": {
+        "total": "22",
+        "mod": "+6",
+        "save": "+13"
+      }
+    },
+    "skills": "Perception +16, Stealth +9",
+    "immunities": "Acid",
+    "senses": "Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26",
+    "languages": "Common, Draconic",
+    "CR": "21 (XP 33,000, or 41,000 in lair; PB +7)",
+    "traits": "<b>Amphibious.</b> The dragon can breathe air and water.<br/><b>Legendary Resistance (4/Day, or 5/Day in Lair).</b> If the dragon fails a saving throw, it can choose to succeed instead.",
+    "actions": "<b>Multiattack.</b> The dragon makes three Rend attacks. It can replace one attack with a use of <i>Spellcasting</i> to cast <i>Melf’s Acid Arrow</i> (level 4 version).<br/><b>Rend. Melee Attack Roll:</b> +15, reach 15 ft. Hit: 17 (2d8 + 8) Slashing damage plus 9 (2d8) Acid damage.<br/><b>Acid Breath (Recharge 5–6).</b> <i>Dexterity Saving Throw:</i> DC 22, each creature in a 90-foot-long, 10-foot-wide Line. <i>Failure:</i> 67 (15d8) Acid damage. <i>Success:</i> Half damage.",
+    "legendary_actions": "<b>Legendary Action Uses:</b> 3 (4 in Lair). Immediately after another creature’s turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.<br/><b>Cloud of Insects.</b> <i>Dexterity Saving Throw:</i> DC 21, one creature the dragon can see within 120 feet. <i>Failure:</i> 33 (6d10) Poison damage, and the target has Disadvantage on saving throws to maintain Concentration until the end of its next turn. <i>Failure or Success:</i> The dragon can’t take this action again until the start of its next turn.<br/><b>Frightful Presence.</b> The dragon uses <i>Spellcasting</i> to cast <i>Fear</i>. The dragon can’t take this action again until the start of its next turn.<br/><b>Pounce.</b> The dragon moves up to half its Speed, and it makes one Rend attack."
+  }
+]

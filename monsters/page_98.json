@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dryad",
+    "type": "Medium Fey",
+    "alignment": "Neutral",
+    "AC": "16",
+    "HP": "22 (5d8)",
+    "initiative": "+1 (11)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "DEX": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CON": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "INT": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "WIS": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "CHA": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+4"
+      }
+    },
+    "skills": "Perception +4, Stealth +5",
+    "senses": "Darkvision 60 ft.; Passive Perception 14",
+    "languages": "Elvish, Sylvan",
+    "CR": "1 (XP 200; PB +2)",
+    "traits": "<b>Magic Resistance.</b> The dryad has Advantage on saving throws against spells and other magical effects.<br/><b>Speak with Beasts and Plants.</b> The dryad can communicate with Beasts and Plants as if they shared a language.",
+    "actions": "<b>Multitattack.</b> The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting to cast <i>Charm Monster</i>.<br/><b>Vine Lash.</b> Melee Attack Roll: +6, reach 10 ft. Hit: 8 (1d8 + 4) Slashing damage.<br/><b>Thorn Burst.</b> Ranged Attack Roll: +6, range 60 ft. Hit: 7 (1d6 + 4) Piercing damage.<br/><b>Spellcasting.</b> The dryad casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14):<br/>At Will: <i>Animal Friendship, Charm Monster</i> (Lasts 24 hours; ends early if the dryad casts the spell again), <i>Druidcraft</i><br/>1/Day Each: <i>Entangle, Pass without Trace</i>",
+    "bonus_actions": "<b>Tree Stride.</b> If within 5 feet of a Large or bigger tree, the dryad teleports to an unoccupied space within 5 feet of a second Large or bigger tree that is within 60 feet of the previous tree."
+  }
+]

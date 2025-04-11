@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Green Hag",
+    "type": "Medium Fey",
+    "alignment": "Neutral Evil",
+    "AC": "17",
+    "HP": "82 (11d8 + 33)",
+    "initiative": "+1 (11)",
+    "speed": "30 ft., Swim 30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+4"
+      },
+      "DEX": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CON": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "INT": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "WIS": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "CHA": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      }
+    },
+    "skills": "Arcana +5, Deception +4, Perception +4, Stealth +3",
+    "senses": "Darkvision 60 ft.; Passive Perception 14",
+    "languages": "Common, Elvish, Sylvan",
+    "CR": "3 (XP 700; PB +2)",
+    "traits": "<b>Amphibious.</b> The hag can breathe air and water.<br><b>Covens Magic.</b> While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save DC 11): <i>Augury, Find Familiar, Identify, Locate Object, Scrying</i>, or <i>Unseen Servant</i>. The hag must finish a Long Rest before using this trait to cast that spell again.<br><b>Mimicry.</b> The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations only with a successful DC 14 Wisdom (Insight) check.",
+    "actions": "<b>Multiattack.</b> The hag makes two Claw attacks.<br><b>Claw.</b> Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage plus 3 (1d6) Poison damage.<br><b>Spellcasting.</b> The hag casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks):<br>At Will: <i>Dancing Lights, Disguise Self</i> (24-hour duration), <i>Invisibility</i> (self only, and the hag leaves no tracks while invisible), <i>Minor Illusion, Ray of Sickness</i> (level 3 version)"
+  }
+]

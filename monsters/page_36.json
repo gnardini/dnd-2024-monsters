@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Gulthias Blight",
+    "type": "Gargantuan Plant",
+    "alignment": "Neutral Evil",
+    "AC": "20",
+    "HP": "264 (16d20 + 96)",
+    "initiative": "+5 (15)",
+    "speed": "50 ft.",
+    "abilities": {
+      "STR": {
+        "total": "25",
+        "mod": "+7",
+        "save": "+7"
+      },
+      "DEX": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CON": {
+        "total": "22",
+        "mod": "+6",
+        "save": "+6"
+      },
+      "INT": {
+        "total": "7",
+        "mod": "-2",
+        "save": "-2"
+      },
+      "WIS": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+4"
+      },
+      "CHA": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      }
+    },
+    "skills": "Perception +9",
+    "resistances": "Fire, Necrotic",
+    "immunities": "Deafened",
+    "senses": "Blindsight 120 ft.; Passive Perception 19",
+    "languages": "Common, Druidic",
+    "CR": "16 (XP 15,000; PB 5)",
+    "traits": "<strong>Blight Seeds.</strong> When it finishes a Long Rest, the blight expels 1d6 seeds into unoccupied spaces on the ground within 30 feet of itself. After 24 hours, the seeds become creatures under the blight's control. Roll 1d8 for each seed to determine the creature it becomes: on 1–4, <em>Twig Blight</em>; on 5–6, <em>Needle Blight</em>; on 7–8, <em>Vine Blight</em>.",
+    "actions": "<strong>Multiattack.</strong> The blight makes two attacks, using Slam or Thorn Volley in any combination. It also uses Life-Draining Root.<br><br><strong>Slam.</strong> Melee Attack Roll: +12, reach 10 ft. <em>Hit:</em> 25 (4d8 + 7) Bludgeoning damage.<br><br><strong>Thorn Volley.</strong> Ranged Attack Roll: +12, range 60/180 ft. <em>Hit:</em> 20 (3d8 + 7) Piercing damage.<br><br><strong>Life-Draining Root.</strong> <em>Constitution Saving Throw:</em> DC 20, one Huge or smaller creature the blight can see within 30 feet. <em>Failure:</em> 14 (2d6 + 7) Necrotic damage, and the target has the Grappled condition (escape DC 17) for one of six roots. Until the grapple ends, the target has the Restrained condition and takes 14 (4d6) Necrotic damage at the start of each of its turns. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the blight regains Hit Points equal to that amount."
+  }
+]

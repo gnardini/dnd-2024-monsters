@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Guardian Naga",
+    "type": "Large Celestial",
+    "alignment": "Lawful Good",
+    "AC": "18",
+    "HP": "136 (16d10 + 48)",
+    "initiative": "+4 (14)",
+    "speed": "40 ft., Climb 40 ft., Swim 40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "19",
+        "mod": "+4",
+        "save": "+7"
+      },
+      "DEX": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+8"
+      },
+      "CON": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+7"
+      },
+      "INT": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+7"
+      },
+      "WIS": {
+        "total": "19",
+        "mod": "+4",
+        "save": "+8"
+      },
+      "CHA": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+8"
+      }
+    },
+    "skills": "Arcana +11, History +11, Religion +11",
+    "immunities": "Poison; Charmed, Paralyzed, Poisoned, Restrained",
+    "senses": "Darkvision 60 ft.; Passive Perception 14",
+    "languages": "Celestial, Common",
+    "CR": "10 (XP 5,900; PB +4)",
+    "traits": "<p><strong>Celestial Restoration.</strong> If the naga dies, it returns to life in 1d6 days and regains all its Hit Points unless <em>Dispel Evil and Good</em> is cast on its remains.</p>",
+    "actions": "<p><strong>Multiattack.</strong> The naga makes two Bite attacks. It can replace any attack with a use of Poisonous Spittle.</p>\n<p><strong>Bite.</strong> <em>Melee Attack</em> Roll: +8, reach 10 ft. <strong>Hit:</strong> 17 (2d12 + 4) Piercing damage plus 22 (4d10) Poison damage.</p>\n<p><strong>Poisonous Spittle.</strong> <em>Constitution Saving Throw:</em> DC 16, one creature the naga can see within 60 feet. <strong>Failure:</strong> 31 (7d8) Poison damage, and the target has the Blinded condition until the start of the naga’s next turn. <strong>Success:</strong> Half damage only.</p>\n<p><strong>Spellcasting.</strong> The naga casts one of the following spells, requiring no Somatic or Material components and using Wisdom as the spellcasting ability (spell save DC 16):</p>\n<p><strong>At Will:</strong> <em>Thaumaturgy</em></p>\n<p><strong>1/Day Each:</strong> <em>Clairvoyance, Cure Wounds</em> (level 6 version), <em> Flame Strike</em> (level 6 version), <em>Geas, True Seeing</em></p>"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Githzerai Monk",
+    "type": "Medium Aberration (Gith)",
+    "alignment": "Lawful Neutral",
+    "AC": "14",
+    "HP": "38 (7d8 + 7)",
+    "initiative": "+4 (14)",
+    "speed": "40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+3"
+      },
+      "DEX": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "CON": {
+        "total": "12",
+        "mod": "+1",
+        "save": "-"
+      },
+      "INT": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+3"
+      },
+      "WIS": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "CHA": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      }
+    },
+    "skills": "Insight +4, Perception +4",
+    "senses": "Passive Perception 14",
+    "languages": "Common, Gith",
+    "CR": "2 (XP 450; PB +2)",
+    "actions": "<b>Multiattack.</b> The githzerai makes two Psi Strike attacks.<br><b>Psi Strike.</b> <i>Melee Attack Roll:</i> +4, reach 5 ft. <i>Hit:</i> 6 (1d8 + 2) Bludgeoning damage plus 9 (2d8) Psychic damage.<br><b>Spellcasting.</b> The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability:<br><i>At Will:</i> Mage Hand (the hand is Invisible)<br><i>1/Day:</i> See Invisibility",
+    "bonus_actions": "<b>Psi-Powered Leap (2/Day).</b> The githyanki casts <i>Jump</i>, requiring no spell components and using the same spellcasting ability as Spellcasting.",
+    "reactions": "<b>Psionic Defense (2/Day).</b> The githyanki casts <i>Feather Fall</i> or <i>Shield</i> in response to the spell's trigger, requiring no spell components and using the same spellcasting ability as Spellcasting."
+  }
+]

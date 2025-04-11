@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Bearded Devil",
+    "type": "Medium Fiend (Devil)",
+    "alignment": "Lawful Evil",
+    "AC": "13",
+    "HP": "58 (9d8 + 18)",
+    "initiative": "+2 (12)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+5"
+      },
+      "DEX": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "CON": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "INT": {
+        "total": "9",
+        "mod": "-1",
+        "save": "-"
+      },
+      "WIS": {
+        "total": "11",
+        "mod": "+0",
+        "save": "-"
+      },
+      "CHA": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+4"
+      }
+    },
+    "skills": "-",
+    "resistances": "Cold",
+    "immunities": "Fire, Poison; Frightened, Poisoned",
+    "senses": "Darkvision 120 ft. (unimpeded by magical Darkness); passive Perception 10",
+    "languages": "Infernal; telepathy 120 ft.",
+    "CR": "3 (XP 700; PB +2)",
+    "traits": "<b>Magic Resistance.</b> The devil has Advantage on saving throws against spells and other magical effects.",
+    "actions": "<b>Multiattack.</b> The devil makes one Beard attack and one Infernal Glaive attack.<br><b>Beard.</b> Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage, and the target has the Poisoned condition until the start of the devil’s next turn. Until this poison ends, the target can’t regain Hit Points.<br><b>Infernal Glaive.</b> Melee Attack Roll: +5, reach 10 ft. Hit: 8 (1d10 + 3) Slashing damage. If the target is a creature and doesn’t already have an infernal wound, it is subjected to the following effect. <i>Constitution Saving Throw:</i> DC 12. Failure: The target receives an infernal wound. While wounded, the target loses 5 (1d10) Hit Points at the start of each of its turns. The wound closes after 1 minute, after a spell restores Hit Points to the target, or after the target or a creature within 5 feet of it takes an action to stanch the wound, doing so by succeeding on a DC 12 Wisdom (Medicine) check."
+  }
+]

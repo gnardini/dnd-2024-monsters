@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Cloaker",
+    "type": "Large Aberration, Chaotic Neutral",
+    "alignment": "Chaotic Neutral",
+    "AC": "14",
+    "HP": "91 (14d10 + 14)",
+    "initiative": "+5 (15)",
+    "speed": "10 ft., Fly 40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "17",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "DEX": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "CON": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "INT": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "WIS": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "CHA": {
+        "total": "7",
+        "mod": "-2",
+        "save": "-2"
+      }
+    },
+    "skills": "Stealth +5",
+    "immunities": "Frightened",
+    "senses": "Darkvision 120 ft.; Passive Perception 12",
+    "languages": "Deep Speech, Undercommon",
+    "CR": "8 (3,900; PB +3)",
+    "traits": "<b>Light Sensitivity.</b> While in Bright Light, the cloaker has Disadvantage on attack rolls.",
+    "actions": "<b>Multiattack.</b> The cloaker makes one Attack attack and two Tail attacks.<br><br><b>Attack. Melee Attack Roll:</b> +6, reach 5 ft. Hit: 13 (3d6 + 3) Piercing damage. If the target is a Large or smaller creature, the cloaker attaches to it. While the cloaker is attached, the target has the Blinded condition, and the cloaker can’t make Bite attacks against other targets. In addition, the cloaker halves the damage it takes (round down), and the target takes the same amount of damage.<br>The cloaker can detach itself by spending 5 feet of movement. The target or a creature within 5 feet of it can take an action to try to detach the cloaker, doing so by succeeding on a DC 14 Strength (Athletics) check.<br><br><b>Tail. Melee Attack Roll:</b> +6, reach 10 ft. Hit: 8 (1d10 + 3) Slashing damage.",
+    "bonus_actions": "<b>Phantasms (Recharge after a Short or Long Rest).</b> The cloaker casts the Mirror Image spell, requiring no spell components and using Wisdom as the spellcasting ability. The spell ends early if the cloaker starts or ends its turn in Bright Light.<br><br><b>Moan. Wisdom Saving Throw:</b> DC 13, each creature in a 60-foot Emanation originating from the cloaker. <i>Failure:</i> The target has the Frightened condition until the end of the cloaker’s next turn. <i>Success:</i> The target is immune to this cloaker’s Moan for the next 24 hours."
+  }
+]

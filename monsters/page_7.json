@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Animated Armor",
+    "type": "Medium Construct, Unaligned",
+    "AC": "18",
+    "HP": "33 (6d8 + 6)",
+    "initiative": "+2 (12)",
+    "speed": "25 ft.",
+    "abilities": {
+      "STR": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "DEX": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CON": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "INT": {
+        "total": "1",
+        "mod": "-5",
+        "save": "-5"
+      },
+      "WIS": {
+        "total": "3",
+        "mod": "-4",
+        "save": "-4"
+      },
+      "CHA": {
+        "total": "1",
+        "mod": "-5",
+        "save": "-5"
+      }
+    },
+    "skills": "None",
+    "senses": "Blindsight 60 ft.; Passive Perception 6",
+    "languages": "None",
+    "CR": "1 (XP 200; PB +2)",
+    "traits": "Immunities Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned.",
+    "actions": "<b>Multiattack.</b> The armor makes two Slam attacks.<br><br><b>Slam.</b> Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning damage."
+  },
+  {
+    "name": "Animated Broom",
+    "type": "Small Construct, Unaligned",
+    "AC": "15",
+    "HP": "14 (4d6)",
+    "initiative": "+5 (15)",
+    "speed": "50 ft., Fly 50 ft. (hover)",
+    "abilities": {
+      "STR": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "DEX": {
+        "total": "17",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "CON": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "INT": {
+        "total": "1",
+        "mod": "-5",
+        "save": "-5"
+      },
+      "WIS": {
+        "total": "5",
+        "mod": "-3",
+        "save": "-3"
+      },
+      "CHA": {
+        "total": "1",
+        "mod": "-5",
+        "save": "-5"
+      }
+    },
+    "skills": "None",
+    "senses": "Blindsight 60 ft.; Passive Perception 7",
+    "languages": "None",
+    "CR": "1/4 (XP 50; PB +2)",
+    "traits": "<b>Flyby.</b> The broom doesn’t provoke an Opportunity Attack when it flies out of an enemy’s reach. <b>Immunities</b> Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned.",
+    "actions": "<b>Slam.</b> Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage."
+  }
+]

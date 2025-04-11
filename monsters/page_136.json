@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Adult Gold Dragon",
+    "type": "Huge Dragon (Metallic)",
+    "alignment": "Lawful Good",
+    "AC": "19",
+    "HP": "243 (18d12 + 126)",
+    "initiative": "+14 (24)",
+    "speed": "40 ft., Fly 80 ft., Swim 40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "27",
+        "mod": "+8",
+        "save": "+14"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+8"
+      },
+      "CON": {
+        "total": "25",
+        "mod": "+7",
+        "save": "+7"
+      },
+      "INT": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "WIS": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+8"
+      },
+      "CHA": {
+        "total": "24",
+        "mod": "+7",
+        "save": "+14"
+      }
+    },
+    "skills": "Insight +8, Perception +14, Persuasion +13, Stealth +8",
+    "immunities": "Fire",
+    "senses": "Blindsight 60 ft., Darkvision 120 ft., Passive Perception 24",
+    "languages": "Common, Draconic",
+    "CR": "17 (XP 18,000, or 20,000 in lair; PB +6)",
+    "traits": "<b>Amphibious.</b> The dragon can breathe air and water.<br><b>Legendary Resistance (3/Day, or 4/Day in Lair).</b> If the dragon fails a saving throw, it can choose to succeed instead.",
+    "actions": "<b>Multiattack.</b> The dragon makes three Rend attacks. It can replace one attack with a use of (A) Spellcasting to cast <i>Guiding Bolt</i> (level 2 version) or (B) Weakening Breath.<br><b>Rend.</b> Melee Attack Roll: +14, reach 10 ft. <b>Hit:</b> 17 (2d8 + 8) Slashing damage plus 4 (1d8) Fire damage.<br><b>Fire Breath (Recharge 5–6).</b> Dexterity Saving Throw: DC 21, each creature in a 60-foot Cone. <b>Failure:</b> 66 (12d10) Fire damage. <b>Success:</b> Half damage.<br><b>Spellcasting.</b> The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21):<br>&nbsp;&nbsp;&nbsp;&nbsp;<i>At Will:</i> <i>Detect Magic, Guiding Bolt</i> (level 2 version), <i>Shapechange</i> (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell)<br>&nbsp;&nbsp;&nbsp;&nbsp;<i>1/Day Each:</i> <i>Flame Strike, Zone of Truth</i>",
+    "legendary_actions": "<b>Legendary Action Uses:</b> 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.<br><b>Banish.</b> Charisma Saving Throw: DC 21, one creature the dragon can see within 120 feet. <b>Failure:</b> 10 (3d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it reappears in an unoccupied space of the dragon's choice within 120 feet of the dragon. <b>Failure or Success:</b> The dragon can’t take this action again until the start of its next turn.<br><b>Guiding Light.</b> The dragon uses Spellcasting to cast <i>Guiding Bolt</i> (level 2 version).<br><b>Pounce.</b> The dragon moves up to half its Speed, and it makes one Rend attack."
+  }
+]

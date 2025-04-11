@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Chuul",
+    "type": "Large Aberration",
+    "alignment": "Chaotic Evil",
+    "AC": "16",
+    "HP": "76 (9d10 + 27)",
+    "initiative": "+0 (10)",
+    "speed": "30 ft., Swim 30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "19",
+        "mod": "+4",
+        "save": "-"
+      },
+      "DEX": {
+        "total": "10",
+        "mod": "+0",
+        "save": "-"
+      },
+      "CON": {
+        "total": "16",
+        "mod": "+3",
+        "save": "-"
+      },
+      "INT": {
+        "total": "5",
+        "mod": "-3",
+        "save": "-"
+      },
+      "WIS": {
+        "total": "11",
+        "mod": "+0",
+        "save": "-"
+      },
+      "CHA": {
+        "total": "5",
+        "mod": "-3",
+        "save": "-"
+      }
+    },
+    "skills": "Perception +4",
+    "immunities": "Poison; Poisoned",
+    "senses": "Darkvision 60 ft.; Passive Perception 14",
+    "languages": "Understands Deep Speech but can't speak",
+    "CR": "4 (XP 1,100; PB +2)",
+    "traits": "<b>Amphibious.</b> The chuul can breathe air and water.<br><b>Sense Magic.</b> The chuul senses magic within 120 feet of itself. This trait otherwise works like the Detect Magic spell but isn't itself magical.",
+    "actions": "<b>Multiattack.</b> The chuul makes two Pincer attacks and uses Paralyzing Tentacles.<br><b>Pincer.</b> Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two pincers.<br><b>Paralyzing Tentacles.</b> <i>Constitution Saving Throw:</i> DC 13, one creature Grappled by the chuul. <i>Failure:</i> The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. While Poisoned, the target has the Paralyzed condition."
+  }
+]

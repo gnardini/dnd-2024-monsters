@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Cloud Giant",
+    "type": "Huge Giant",
+    "alignment": "Neutral",
+    "AC": "14",
+    "HP": "200 (16d12 + 96)",
+    "initiative": "+4 (14)",
+    "speed": "40 ft., Fly 20 ft. (hover)",
+    "abilities": {
+      "STR": {
+        "total": "27",
+        "mod": "+8",
+        "save": "+14"
+      },
+      "DEX": {
+        "total": "10",
+        "mod": "+0",
+        "save": "0"
+      },
+      "CON": {
+        "total": "22",
+        "mod": "+6",
+        "save": "+13"
+      },
+      "INT": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+8"
+      },
+      "WIS": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+10"
+      },
+      "CHA": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+10"
+      }
+    },
+    "skills": "Insight +7, Perception +11",
+    "senses": "Passive Perception 21",
+    "languages": "Common, Giant",
+    "CR": "9 (XP 5,000; PB +4)",
+    "actions": "<b>Multiattack.</b> The giant makes two attacks, using Thunderous Mace or Thundercloud in any combination. It can replace one attack with a use of Spellcasting to cast Fog Cloud.<br><br><b>Thunderous Mace.</b> Melee Attack Roll: +12, reach 10 ft.\nHit: 21 (3d8 + 8) Bludgeoning damage plus 7 (2d6) Thunder damage.<br><br><b>Thundercloud.</b> Ranged Attack Roll: +12, range 240 ft.\nHit: 18 (3d6 + 8) Thunder damage, and the target has the Incapacitated condition until the end of its next turn.<br><br><b>Spellcasting.</b> The giant casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 15):<br><i>At Will:</i> Detect Magic, Fog Cloud, Light<br><i>1/Day Each:</i> Control Weather, Gaseous Form, Telekinesis",
+    "bonus_actions": "<b>Misty Step.</b> The giant casts the Misty Step spell, using the same spellcasting ability as Spellcasting."
+  }
+]

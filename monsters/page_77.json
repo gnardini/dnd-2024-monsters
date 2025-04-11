@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Aberrant Cultist",
+    "type": "Medium or Small Humanoid, Neutral Evil",
+    "AC": "14",
+    "HP": "137 (25d8 + 25)",
+    "initiative": "+7 (17)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "10",
+        "mod": "+0",
+        "save": "0"
+      },
+      "DEX": {
+        "total": "19",
+        "mod": "+4",
+        "save": "+8"
+      },
+      "CON": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "INT": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+4"
+      },
+      "WIS": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+8"
+      },
+      "CHA": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+2"
+      }
+    },
+    "skills": "Arcana +6, Perception +7, Religion +6",
+    "resistances": "Psychic",
+    "senses": "Darkvision 90 ft.; Passive Perception 17",
+    "languages": "Common, Deep Speech; telepathy 30 ft.",
+    "CR": "8 (XP 3,900; PB +3)",
+    "actions": "<b>Multiattack.</b> The cultist makes two Tentacle Lash attacks. It can replace any attack with a use of Mind Rot.<br><br><b>Tentacle Lash.</b> <i>Melee Attack</i>: +7, reach 10 ft. <i>Hit</i>: 7 (1d6 + 4) Slashing damage plus 14 (4d6) Psychic damage. If the target is a Large or Smaller creature, it has the Grappled condition (escape DC 14) from one of two tentacles, and it has the Restrained condition until the grapple ends.<br><br><b>Mind Rot.</b> <i>Wisdom Saving Throw:</i> DC 15, one creature the cultist can see within 90 feet. <i>Failure:</i> 27 (6d8) Psychic damage, and the target has the Poisoned condition until the start of the cultist’s next turn. <i>Success:</i> Half damage only.<br><br><b>Spellcasting.</b> The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 15):<br><i>At Will:</i> <i>Detect Thoughts, Minor Illusion</i>",
+    "reactions": "<b>CounterspeI1 (2/Day).</b> The cultist casts <i>CounterspeI1</i> in response to that spell’s trigger, using the same spellcasting ability as Spellcasting."
+  },
+  {
+    "name": "Death Cultist",
+    "type": "Medium or Small Humanoid, Neutral Evil",
+    "AC": "17",
+    "HP": "127 (15d8 + 60)",
+    "initiative": "+4 (14)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "19",
+        "mod": "+4",
+        "save": "+8"
+      },
+      "DEX": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CON": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+8"
+      },
+      "INT": {
+        "total": "10",
+        "mod": "0",
+        "save": "0"
+      },
+      "WIS": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+6"
+      },
+      "CHA": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      }
+    },
+    "skills": "Insight +6, Perception +6, Religion +4",
+    "senses": "Passive Perception 16",
+    "languages": "Common",
+    "CR": "8 (XP 3,900; PB +3)",
+    "actions": "<b>Multiattack.</b> The cultist makes three attacks, using Dread Scythe or Deathly Ray in any combination.<br><br><b>Dread Scythe.</b> <i>Melee Attack</i>: +7, reach 10 ft. <i>Hit</i>: 9 (1dl0 + 4) Slashing damage plus 11 (2d10) Necrotic damage, and the target can’t regain Hit Points until the end of its next turn.<br><br><b>Deathly Ray.</b> <i>Ranged Attack</i> Roll: +6, range 120 ft. <i>Hit:</i> 22 (4d10) Necrotic damage.<br><br><b>Spellcasting.</b> The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 14):<br><i>At Will:</i> <i>Speak with Dead, Thaumaturgy</i>",
+    "bonus_actions": "<b>Spirit Wail (Recharge 5-6).</b> <i>Wisdom Saving Throw:</i> DC 14, each creature in a 20-foot Emanation originating from the cultist. <i>Failure:</i> 14 (4d6) Psychic damage, and the creature has the Frightened condition until the end of its next turn. <i>Success:</i> Half damage only."
+  }
+]

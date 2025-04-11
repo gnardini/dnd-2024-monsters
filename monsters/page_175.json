@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Knight",
+    "type": "Medium or Small Humanoid, Neutral",
+    "alignment": "Neutral",
+    "AC": "18",
+    "HP": "52 (8d8 + 16)",
+    "initiative": "+0 (10)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "16",
+        "mod": "+3",
+        "save": "-"
+      },
+      "DEX": {
+        "total": "11",
+        "mod": "+0",
+        "save": "-"
+      },
+      "CON": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "INT": {
+        "total": "11",
+        "mod": "+0",
+        "save": "-"
+      },
+      "WIS": {
+        "total": "11",
+        "mod": "+0",
+        "save": "-"
+      },
+      "CHA": {
+        "total": "15",
+        "mod": "+2",
+        "save": "-"
+      }
+    },
+    "skills": "Athletics +9, Perception +5, Persuasion +8",
+    "immunities": "Frightened",
+    "senses": "Passive Perception 10",
+    "languages": "Common plus one other language",
+    "CR": "3 (XP 700; PB +2)",
+    "actions": "<b>Multiattack.</b> The knight makes two attacks, using Greatsword or Heavy Crossbow in any combination.<br><b>Greatsword.</b> Melee Attack Roll: +5, reach 5 ft. <i>Hit:</i> 10 (2d6 + 3) Slashing damage plus 4 (1d8) Radiant damage.<br><b>Heavy Crossbow.</b> Ranged Attack Roll: +2, range 100/400 ft. <i>Hit:</i> 11 (2d10) Piercing damage plus 4 (1d8) Radiant damage.",
+    "reactions": "<b>Parry. Trigger:</b> The knight is hit by a melee attack roll while holding a weapon. <b>Response:</b> The knight adds 2 to its AC against that attack, possibly causing it to miss."
+  },
+  {
+    "name": "Questing Knight",
+    "type": "Medium or Small Humanoid, Neutral",
+    "alignment": "Neutral",
+    "AC": "18",
+    "HP": "202 (27d8 + 81)",
+    "initiative": "+7 (17)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "20",
+        "mod": "+5",
+        "save": "-"
+      },
+      "DEX": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+"
+      },
+      "CON": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+6"
+      },
+      "INT": {
+        "total": "11",
+        "mod": "+0",
+        "save": "-"
+      },
+      "WIS": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+"
+      },
+      "CHA": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+"
+      }
+    },
+    "skills": "Athletics +9, Perception +5, Persuasion +8",
+    "immunities": "Charmed, Frightened",
+    "senses": "Passive Perception 15",
+    "languages": "Common plus one other language",
+    "CR": "12 (XP 8,400; PB +4)",
+    "traits": "<b>Aura of Bravery.</b> Creatures of the knight's choice in a 30-foot Emanation originating from it have immunity to the Charmed and Frightened conditions while there.",
+    "actions": "<b>Multiattack.</b> The knight makes three attacks, using Greatsword or Longbow in any combination.<br><b>Greatsword.</b> Melee Attack Roll: +9, reach 5 ft. <i>Hit:</i> 12 (2d6 + 5) Slashing damage plus 22 (5d8) Radiant damage.<br><b>Longbow.</b> Ranged Attack Roll: +7, range 150/600 ft. <i>Hit:</i> 12 (2d8 + 3) Piercing damage plus 22 (5d8) Radiant damage.<br><b>Spellcasting.</b> The knight casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 16): <b>1/Day Each:</b> <i>Daylight, Dispel Evil and Good, Greater Restoration, Phantom Steed</i>."
+  }
+]

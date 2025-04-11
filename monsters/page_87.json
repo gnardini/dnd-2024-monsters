@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Demilich",
+    "type": "Tiny Undead",
+    "alignment": "Neutral Evil",
+    "AC": "20",
+    "HP": "180 (72d4)",
+    "initiative": "+17 (+27)",
+    "speed": "5 ft., Fly 30 ft. (hover)",
+    "abilities": {
+      "STR": {
+        "total": "1",
+        "mod": "-5",
+        "save": "-5"
+      },
+      "DEX": {
+        "total": "20",
+        "mod": "+5",
+        "save": "+11"
+      },
+      "CON": {
+        "total": "10",
+        "mod": "0",
+        "save": "0"
+      },
+      "INT": {
+        "total": "20",
+        "mod": "+5",
+        "save": "+11"
+      },
+      "WIS": {
+        "total": "17",
+        "mod": "+3",
+        "save": "+9"
+      },
+      "CHA": {
+        "total": "20",
+        "mod": "+5",
+        "save": "+5"
+      }
+    },
+    "skills": "Perception +13",
+    "resistances": "Bludgeoning, Piercing, Slashing",
+    "immunities": "Necrotic, Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned, Prone, Stunned",
+    "senses": "Truesight 120 ft., Passive Perception 13",
+    "languages": "None",
+    "CR": "18 (XP 20,000, or 22,000 in lair; PB +6)",
+    "traits": "<strong>Legendary Resistance (3/Day, or 4/Day in Lair).</strong> If the demilich fails a saving throw, it can choose to succeed instead.<br><strong>Undead Restoration.</strong> If the demilich is destroyed, it reforms and regains all its Hit Points in 1d10 days unless a Wish spell is cast on its remains.",
+    "actions": "<strong>Multiattack.</strong> The demilich makes three Necrotic Burst attacks.<br><strong>Necrotic Burst.</strong> Melee or Ranged Attack Roll: +11, reach 5 ft. or range 120 ft. Hit: 24 (7d6) Necrotic damage.<br><strong>Howl (Recharge 5–6).</strong> Constitution Saving Throw: DC 19, each creature in a 30-foot Emanation originating from the demilich. <em>Failure:</em> 20(6d6) Psychic damage. <em>Failure or Success:</em> The target has the Frightened condition until the start of the demilich's next turn.",
+    "legendary_actions": "The demilich can take 3 (4 in Lair) Legendary Actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The demilich regains spent legendary actions at the start of each of its turns.<br><strong>Energy Drain.</strong> Constitution Saving Throw: DC 19, one creature the demilich can see within 120 feet. <em>Failure:</em> The target's Hit Point maximum decreases by 14 (4d6). <em>Failure or Success:</em> The demilich can’t take this action again until the start of its next turn.<br><strong>Grave-Dust Flight.</strong> The demilich flies up to its Fly Speed, shedding grave dust. Each creature within 10 feet of the demilich as it moves is targeted once by the following effect. <strong>Constitution Saving Throw:</strong> DC 19. <em>Failure:</em> The target has the Blinded condition until the end of the demilich’s next turn. <em>Failure or Success:</em> The demilich can’t take this action again until the start of its next turn.<br><strong>Necrosis.</strong> The demilich makes one Necrotic Burst attack."
+  }
+]

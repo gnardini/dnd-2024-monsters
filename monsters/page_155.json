@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Harpy",
+    "type": "Medium Monstrosity",
+    "alignment": "Chaotic Evil",
+    "AC": "11",
+    "HP": "38 (7d8 + 7)",
+    "initiative": "+1 (1)",
+    "speed": "20 ft., Fly 40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "DEX": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CON": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "INT": {
+        "total": "7",
+        "mod": "-2",
+        "save": "-2"
+      },
+      "WIS": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CHA": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      }
+    },
+    "skills": "",
+    "senses": "Passive Perception 10",
+    "languages": "Common",
+    "CR": "1 (XP 200; PB +2)",
+    "traits": "",
+    "actions": "<b>Claw.</b> Melee Attack: Roll +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage.<br><b>Luring Song.</b> The harpy sings a magical melody, which lasts until the harpy's Concentration ends on it. <i>Wisdom Saving Throw:</i> DC 11, each Humanoid and Giant in a 300-foot Emanation originating from the harpy when the song starts. <i>Failure:</i> The target has the Charmed condition until the song ends and repeats the save at the end of each of its turns. While Charmed, the target has the Incapacitated condition and ignores the Luring Song of other harpies. If the target is more than 5 feet from the harpy, the target moves on its turn toward the harpy by the most direct route, trying to get within 5 feet of the harpy. It doesn't avoid Opportunity Attacks; however, before moving into damaging terrain (such as lava or a pit) and whenever it takes damage from a source other than the harpy, the target repeats the save. <i>Success:</i> The target is immune to this harpy's Luring Song for 24 hours."
+  }
+]

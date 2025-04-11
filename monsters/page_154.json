@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Half-Dragon",
+    "type": "Medium Dragon",
+    "alignment": "Neutral",
+    "AC": "18",
+    "HP": "105 (14d8 + 42)",
+    "initiative": "+5 (15)",
+    "speed": "40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "19",
+        "mod": "+4",
+        "save": "+4"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+5"
+      },
+      "CON": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "INT": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "WIS": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+5"
+      },
+      "CHA": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      }
+    },
+    "skills": "Athletics +7, Perception +5, Stealth +4",
+    "resistances": "Damage type chosen for the Draconic Origin trait below",
+    "senses": "Blindsight 10 ft., Darkvision 60 ft., Passive Perception 15",
+    "languages": "Common, Draconic",
+    "CR": "5 (XP 1,800; PB +3)",
+    "traits": "<strong>Draconic Origin.</strong> The half-dragon is related to a type of dragon associated with one of the following damage types (DM's choice): Acid, Cold, Fire, Lightning, or Poison. This choice affects other aspects of the stat block.",
+    "actions": "<strong>Multiattack.</strong> The half-dragon makes two Claw attacks.<br /><strong>Claw.</strong> Melee Attack Roll: +7, reach 10 ft. Hit: 6 (1d4 + 4) Slashing damage plus 7 (2d6) damage of the type chosen for the Draconic Origin trait.<br /><strong>Dragon's Breath (Recharge 5–6).</strong> Dexterity Saving Throw: DC 14, each creature in a 30-foot Cone. Failure: 28 (8d6) damage of the type chosen for the Draconic Origin trait. Success: Half damage.",
+    "bonus_actions": "<strong>Leap.</strong> The half-dragon jumps up to 30 feet by spending 10 feet of movement."
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Awakened Shrub",
+    "type": "Small Plant, Neutral",
+    "AC": "9",
+    "HP": "10 (3d6)",
+    "initiative": "-1 (9)",
+    "speed": "20 ft.",
+    "abilities": {
+      "STR": {
+        "total": "3",
+        "mod": "-4",
+        "save": "-4"
+      },
+      "DEX": {
+        "total": "8",
+        "mod": "-1",
+        "save": "-1"
+      },
+      "CON": {
+        "total": "11",
+        "mod": "0",
+        "save": "0"
+      },
+      "INT": {
+        "total": "10",
+        "mod": "0",
+        "save": "0"
+      },
+      "WIS": {
+        "total": "10",
+        "mod": "0",
+        "save": "0"
+      },
+      "CHA": {
+        "total": "6",
+        "mod": "-2",
+        "save": "-2"
+      }
+    },
+    "skills": "",
+    "resistances": "Piercing",
+    "senses": "Passive Perception 10",
+    "languages": "Common plus one other language",
+    "CR": "0 (XP 10; PB +2)",
+    "traits": "",
+    "actions": "Rake. Melee Attack Roll: +1, reach 5 ft. Hit: 1 Slashing damage."
+  },
+  {
+    "name": "Awakened Tree",
+    "type": "Huge Plant, Neutral",
+    "AC": "13",
+    "HP": "59 (7d12 + 14)",
+    "initiative": "-2 (8)",
+    "speed": "20 ft.",
+    "abilities": {
+      "STR": {
+        "total": "19",
+        "mod": "+4",
+        "save": "+4"
+      },
+      "DEX": {
+        "total": "6",
+        "mod": "-2",
+        "save": "-2"
+      },
+      "CON": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "INT": {
+        "total": "10",
+        "mod": "0",
+        "save": "0"
+      },
+      "WIS": {
+        "total": "10",
+        "mod": "0",
+        "save": "0"
+      },
+      "CHA": {
+        "total": "7",
+        "mod": "-2",
+        "save": "-2"
+      }
+    },
+    "skills": "",
+    "resistances": "Bludgeoning, Piercing",
+    "senses": "Passive Perception 10",
+    "languages": "Common",
+    "CR": "2 (XP 450; PB +2)",
+    "traits": "",
+    "actions": "Slam. Melee Attack Roll: +6, reach 10 ft. Hit: 14 (3d6 + 4) Bludgeoning damage."
+  }
+]

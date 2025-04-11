@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Cultist Fanatic",
+    "type": "Medium or Small Humanoid, Neutral",
+    "AC": "13",
+    "HP": "44 (8d8 + 8)",
+    "initiative": "+2 (12)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "CON": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "INT": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "WIS": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "CHA": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      }
+    },
+    "skills": "Deception +3, Persuasion +3, Religion +2",
+    "senses": "passive Perception 12",
+    "languages": "Common",
+    "CR": "2 (XP 450; PB +2)",
+    "traits": "Gear Holy Symbol, Leather Armor",
+    "actions": "<b>Pact Blade.</b> Melee Attack Roll: +4, reach 5 ft. <i>Hit:</i> 6 (1d8 + 2) Slashing damage plus 7 (2d6) Necrotic damage.<br/><b>Spellcasting.</b> The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks):<br/><i>At Will:</i> <i>Light, Thaumaturgy</i><br/><i>2/Day:</i> <i>Command</i><br/><i>1/Day:</i> <i>Hold Person</i>",
+    "bonus_actions": "<b>Spiritual Weapon (2/Day).</b> The cultist casts the <i>Spiritual Weapon</i> spell, using the same spellcasting ability as Spellcasting."
+  },
+  {
+    "name": "Cultist Hierophant",
+    "type": "Medium or Small Humanoid, Neutral",
+    "AC": "16",
+    "HP": "144 (17d8 + 68)",
+    "initiative": "+8 (18)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "DEX": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+8"
+      },
+      "CON": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+4"
+      },
+      "INT": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "WIS": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+7"
+      },
+      "CHA": {
+        "total": "20",
+        "mod": "+5",
+        "save": "+9"
+      }
+    },
+    "skills": "Perception +7, Persuasion +9, Religion +5",
+    "resistances": "gear Breastplate, Holy Symbol",
+    "senses": "passive Perception 17",
+    "languages": "Celestial, Common",
+    "CR": "10 (XP 5,900; PB +4)",
+    "actions": "<b>Multiattack.</b> The cultist makes three attacks, using Pact Blade or Radiant Ray in any combination.<br/><b>Pact Blade.</b> Melee Attack Roll: +9, reach 5 ft. <i>Hit:</i> 12 (2d6 + 5) Slashing damage plus 18 (4d8) Radiant damage.<br/><b>Radiant Ray.</b> Ranged Attack Roll: +9, range 120 ft. <i>Hit:</i> 31 (4d12 + 5) Radiant damage.<br/><b>Spellcasting.</b> The cultist casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 17):<br/><i>At Will:</i> <i>Mage Armor</i> (included in AC), <i>Thaumaturgy</i><br/><i>1/Day Each:</i> <i>Jallarzi’s Storm of Radiance</i> (level 7 version), <i>Mass Suggestion</i>"
+  }
+]

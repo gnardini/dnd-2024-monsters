@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Bandit",
+    "type": "Medium or Small Humanoid",
+    "alignment": "Neutral",
+    "AC": "12",
+    "HP": "11 (2d8 + 2)",
+    "initiative": "+1 (11)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "DEX": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CON": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "INT": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "WIS": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CHA": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      }
+    },
+    "skills": "",
+    "senses": "Passive Perception 10",
+    "languages": "Common, Thieves’ Cant",
+    "CR": "1/8 (XP 25; PB +2)",
+    "traits": "<strong>Gear</strong> Leather Armor, Light Crossbow, Scimitar",
+    "actions": "<strong>Scimitar</strong>. Melee Attack Roll: <em>+3</em>, reach 5 ft. <strong>Hit</strong>: 4 (1d6 + 1) Slashing damage.<br><strong>Light Crossbow</strong>. Ranged Attack Roll: <em>+3</em>, range 80/320 ft. <strong>Hit</strong>: 5 (1d8 + 1) Piercing damage."
+  },
+  {
+    "name": "Bandit Captain",
+    "type": "Medium or Small Humanoid",
+    "alignment": "Neutral",
+    "AC": "15",
+    "HP": "52 (8d8 + 16)",
+    "initiative": "+3 (13)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "DEX": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+5"
+      },
+      "CON": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "INT": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "WIS": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CHA": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      }
+    },
+    "skills": "Athletics +4, Deception +4",
+    "senses": "Passive Perception 10",
+    "languages": "Common, Thieves’ Cant",
+    "CR": "2 (XP 450; PB +2)",
+    "traits": "<strong>Gear</strong> Pistol, Scimitar, Studded Leather Armor",
+    "actions": "<strong>Multiattack.</strong> The bandit makes two attacks, using Scimitar and Pistol in any combination.<br><strong>Scimitar.</strong> Melee Attack Roll: <em>+5</em>, reach 5 ft. <strong>Hit:</strong> 6 (1d6 + 3) Slashing damage.<br><strong>Pistol.</strong> Ranged Attack Roll: <em>+5</em>, range 30/90 ft. <strong>Hit:</strong> 8 (1d10 + 3) Piercing damage.",
+    "reactions": "<strong>Parry.</strong> <em>Trigger:</em> The bandit is hit by a melee attack roll while holding a weapon. <em>Response:</em> The bandit adds 2 to its AC against that attack, possibly causing it to miss."
+  }
+]

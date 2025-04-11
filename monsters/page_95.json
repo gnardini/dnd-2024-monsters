@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Swarm of Dretches",
+    "type": "Large Swarm of Small Fiends (Demon)",
+    "alignment": "Chaotic Evil",
+    "AC": "12",
+    "HP": "45 (10d10 + 12)",
+    "initiative": "+0 (10)",
+    "speed": "40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+"
+      },
+      "DEX": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+"
+      },
+      "CON": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+"
+      },
+      "INT": {
+        "total": "5",
+        "mod": "-3",
+        "save": "-8"
+      },
+      "WIS": {
+        "total": "8",
+        "mod": "-1",
+        "save": "-1"
+      },
+      "CHA": {
+        "total": "3",
+        "mod": "-4",
+        "save": "+"
+      }
+    },
+    "resistances": "Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing",
+    "immunities": "Poison; Charmed, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned",
+    "senses": "Darkvision 60 ft.; Passive Perception 9",
+    "languages": "Abyssal; telepathy 60 ft.",
+    "CR": "4 (1,100 XP; PB +2)",
+    "traits": "<strong>Fetid Aura.</strong> Constitution Saving Throw: DC 12, any creature that starts its turn in a 10-foot Emanation originating from the swarm. <em>Failure:</em> The target has the Poisoned condition until the start of its next turn. While Poisoned, the creature can take either an action or a Bonus Action on its turn, not both, and it can’t take Reactions.<br><strong>Swarm.</strong> The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Small creature. The swarm can’t regain Hit Points or gain Temporary Hit Points.",
+    "actions": "<strong>Multiattack.</strong> The swarm makes two Rend attacks.<br><strong>Rend.</strong> <em>Melee Attack Roll:</em> +4, reach 5 ft. <em>Hit:</em> 12 (3d6 + 2) Slashing damage, or 9 (3d4 + 2) Slashing damage if the swarm is Bloodied."
+  },
+  {
+    "name": "Dretch",
+    "type": "Small Fiend (Demon)",
+    "alignment": "Chaotic Evil",
+    "AC": "11",
+    "HP": "18 (4d6 + 4)",
+    "initiative": "+0 (10)",
+    "speed": "20 ft.",
+    "abilities": {
+      "STR": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+"
+      },
+      "DEX": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+"
+      },
+      "CON": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+"
+      },
+      "INT": {
+        "total": "5",
+        "mod": "-3",
+        "save": "+"
+      },
+      "WIS": {
+        "total": "8",
+        "mod": "-1",
+        "save": "-1"
+      },
+      "CHA": {
+        "total": "3",
+        "mod": "-4",
+        "save": "+"
+      }
+    },
+    "resistances": "Cold, Fire, Lightning",
+    "immunities": "Poison; Poisoned",
+    "senses": "Darkvision 60 ft.; Passive Perception 9",
+    "languages": "Abyssal; telepathy 60 ft. (works only with creatures that understand Abyssal)",
+    "CR": "1/4 (XP 50; PB +2)",
+    "actions": "<strong>Rend.</strong> <em>Melee Attack Roll:</em> +3, reach 5 ft. <em>Hit:</em> 4 (1d6 + 1) Slashing damage.<br><strong>Fetid Cloud (1/Day).</strong> Constitution Saving Throw: DC 11, each creature in a 10-foot Emanation originating from the dretch. <em>Failure:</em> The target has the Poisoned condition until the end of its next turn. While Poisoned, the creature can take either an action or a Bonus Action on its turn, not both, and it can’t take Reactions."
+  }
+]

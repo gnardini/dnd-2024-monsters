@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Copper Dragon Wyrmling",
+    "type": "Medium Dragon (Metallic)",
+    "alignment": "Chaotic Good",
+    "AC": "16",
+    "HP": "22 (4d8 + 4)",
+    "initiative": "+3 (13)",
+    "speed": "30 ft., Climb 30 ft., Fly 60 ft.",
+    "abilities": {
+      "STR": {
+        "total": "15",
+        "mod": "+2",
+        "save": "-"
+      },
+      "DEX": {
+        "total": "12",
+        "mod": "+1",
+        "save": "-"
+      },
+      "CON": {
+        "total": "13",
+        "mod": "+1",
+        "save": "-"
+      },
+      "INT": {
+        "total": "14",
+        "mod": "+2",
+        "save": "-"
+      },
+      "WIS": {
+        "total": "11",
+        "mod": "+0",
+        "save": "-"
+      },
+      "CHA": {
+        "total": "13",
+        "mod": "+1",
+        "save": "-"
+      }
+    },
+    "skills": "Perception +4, Stealth +3",
+    "immunities": "Acid",
+    "senses": "Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14",
+    "languages": "Draconic",
+    "CR": "1 (XP 200; PB +2)",
+    "actions": "<b>Rend.</b> Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage.<br><b>Acid Breath (Recharge 5–6).</b> Dexterity Saving Throw: DC 11, each creature in a 20-foot-long, 5-foot-wide Line. <i>Failure:</i> 13 (4d8) Acid damage. <i>Success:</i> Half damage.<br><b>Slowing Breath.</b> Constitution Saving Throw: DC 11, each creature in a 15-foot Cone. <i>Failure:</i> The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn."
+  },
+  {
+    "name": "Young Copper Dragon",
+    "type": "Large Dragon (Metallic)",
+    "alignment": "Chaotic Good",
+    "AC": "17",
+    "HP": "119 (14d10 + 42)",
+    "initiative": "+4 (14)",
+    "speed": "40 ft., Climb 40 ft., Fly 80 ft.",
+    "abilities": {
+      "STR": {
+        "total": "19",
+        "mod": "+4",
+        "save": "-"
+      },
+      "DEX": {
+        "total": "12",
+        "mod": "+1",
+        "save": "-"
+      },
+      "CON": {
+        "total": "17",
+        "mod": "+3",
+        "save": "-"
+      },
+      "INT": {
+        "total": "14",
+        "mod": "+2",
+        "save": "-"
+      },
+      "WIS": {
+        "total": "13",
+        "mod": "+1",
+        "save": "-"
+      },
+      "CHA": {
+        "total": "16",
+        "mod": "+3",
+        "save": "-"
+      }
+    },
+    "skills": "Deception +5, Perception +7, Stealth +4",
+    "immunities": "Acid",
+    "senses": "Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17",
+    "languages": "Common, Draconic",
+    "CR": "7 (XP 2,900; PB +3)",
+    "actions": "<b>Multiattack.</b> The dragon makes three Rend attacks. It can replace one attack with a use of Slowing Breath.<br><b>Rend.</b> Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage.<br><b>Acid Breath (Recharge 5–6).</b> Dexterity Saving Throw: DC 14, each creature in a 40-foot-long, 5-foot-wide Line. <i>Failure:</i> 40 (9d8) Acid damage. <i>Success:</i> Half damage.<br><b>Slowing Breath.</b> Constitution Saving Throw: DC 14, each creature in a 30-foot Cone. <i>Failure:</i> The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn."
+  }
+]

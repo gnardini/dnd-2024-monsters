@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Cultist",
+    "type": "Medium or Small Humanoid",
+    "alignment": "Neutral",
+    "AC": "12",
+    "HP": "9 (2d8)",
+    "initiative": "+1 (11)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "DEX": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CON": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "INT": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "WIS": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CHA": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      }
+    },
+    "skills": "Deception +2, Religion +2",
+    "senses": "Passive Perception 10",
+    "languages": "Common",
+    "CR": "1/8 (XP 25; PB +2)",
+    "actions": "<b>Ritual Sickle.</b> Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage plus 1 Necrotic damage."
+  }
+]

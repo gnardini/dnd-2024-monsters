@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Hippogriff",
+    "type": "Large Monstrosity",
+    "alignment": "Unaligned",
+    "AC": "11",
+    "HP": "19 (3d10 + 4)",
+    "initiative": "+1 (11)",
+    "speed": "40 ft., Fly 60 ft.",
+    "abilities": {
+      "STR": {
+        "total": "17",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "DEX": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CON": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "INT": {
+        "total": "2",
+        "mod": "-4",
+        "save": "-4"
+      },
+      "WIS": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CHA": {
+        "total": "8",
+        "mod": "-1",
+        "save": "-1"
+      }
+    },
+    "skills": "Perception +5",
+    "senses": "Passive Perception 15",
+    "languages": "None",
+    "CR": "1 (XP 200; PB +2)",
+    "traits": "<strong>Flyby.</strong> The hippogriff doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.",
+    "actions": "<strong>Multiattack.</strong> The hippogriff makes two Rend attacks.<br><strong>Rend.</strong> Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage."
+  }
+]

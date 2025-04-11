@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Djinni",
+    "type": "Large Elemental",
+    "alignment": "Neutral",
+    "AC": "17",
+    "HP": "218 (19d10 + 114)",
+    "initiative": "+2 (12)",
+    "speed": "30 ft., Fly 90 ft. (hover)",
+    "abilities": {
+      "STR": {
+        "total": "21",
+        "mod": "+5",
+        "save": "+8"
+      },
+      "DEX": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+6"
+      },
+      "CON": {
+        "total": "22",
+        "mod": "+6",
+        "save": "+6"
+      },
+      "INT": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "WIS": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+7"
+      },
+      "CHA": {
+        "total": "20",
+        "mod": "+5",
+        "save": "+5"
+      }
+    },
+    "immunities": "Lightning, Thunder",
+    "senses": "Darkvision 120 ft.; Passive Perception 13",
+    "languages": "Primordial (Aururan)",
+    "CR": "11 (XP 7,200; PB +4)",
+    "traits": "<b>Elemental Restoration.</b> If the djinni dies outside the Elemental Plane of Air, its body dissolves into mist, and it gains a new body in 1d4 days, reviving with all its Hit Points somewhere on the Plane of Air.<br><br><b>Magic Resistance.</b> The djinni has Advantage on saving throws against spells and other magical effects.<br><br><b>Wishes.</b> The djinni has a 30 percent chance of knowing the Wish spell. If the djinni knows it, the djinni can cast it only on behalf of a non-genie creature who communicates a wish in a way the djinni can understand. If the djinni casts the spell for the creature, the djinni suffers none of the spell’s stress. Once the djinni has cast it three times, the djinni can’t do so again for 365 days.",
+    "actions": "<b>Multitattack.</b> The djinni makes three attacks, using Storm Blade or Storm Bolt in any combination.<br><br><b>Storm Blade.</b> Melee Attack Roll: +9, reach 5 feet. <i>Hit:</i> 12 (2d6 + 5) Slashing damage plus 7 (2d6) Lightning damage.<br><br><b>Storm Bolt.</b> Ranged Attack Roll: +9, range 120 feet. <i>Hit:</i> 13 (3d8) Thunder damage. If the target is a Large or smaller creature, it has the Prone condition.<br><br><b>Create Whirlwind.</b> The djinni conjures a whirlwind at a point it can see within 120 feet. The whirlwind fills a 20-foot-radius, 60-foot-high Cylinder centered on that point. The whirlwind lasts until the djinni’s Concentration on it ends. The djinni can move the whirlwind up to 20 feet at the start of each of its turns.<br><br>Whenever the whirlwind enters a creature’s space or a creature enters the whirlwind, that creature is subjected to the following effect. <i>Strength Saving Throw:</i> DC 17 (a creature makes this save only once per turn, and the djinni is unaffected). <i>Failure:</i> While in the whirlwind, the target has the Restrained condition and moves with the whirlwind. At the start of each of its turns, the Restrained target takes 21 (6d6) Thunder damage. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success.<br><br><b>Spellcasting.</b> The djinni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):<br><i>At Will:</i> <i>Detect Evil and Good, Detect Magic</i><br><i>2/Day Each:</i> <i>Create Food and Water</i> (can create wine instead of water), <i>Tongues, Wind Walk</i><br><i>1/Day Each:</i> <i>Creation, Gaseous Form, Invisibility, Major Image, Plane Shift</i>"
+  }
+]

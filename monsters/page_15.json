@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Axe Beak",
+    "type": "Large Monstrosity",
+    "alignment": "Unaligned",
+    "AC": "11",
+    "HP": "19 (3d10 + 3)",
+    "initiative": "+1 (11)",
+    "speed": "50 ft.",
+    "abilities": {
+      "STR": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "DEX": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CON": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "INT": {
+        "total": "2",
+        "mod": "-4",
+        "save": "-4"
+      },
+      "WIS": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CHA": {
+        "total": "5",
+        "mod": "-3",
+        "save": "-3"
+      }
+    },
+    "skills": "",
+    "senses": "Passive Perception 10",
+    "languages": "None",
+    "CR": "1/4 (XP 50; PB +2)",
+    "actions": "<b>Beak.</b> Melee Attack Roll: +4, reach 5 ft. <i>Hit:</i> 6 (1d8 + 2) Slashing damage."
+  },
+  {
+    "name": "Giant Axe Beak",
+    "type": "Huge Monstrosity",
+    "alignment": "Unaligned",
+    "AC": "15",
+    "HP": "84 (8d12 + 32)",
+    "initiative": "+5 (15)",
+    "speed": "50 ft.",
+    "abilities": {
+      "STR": {
+        "total": "21",
+        "mod": "+5",
+        "save": "+5"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "CON": {
+        "total": "19",
+        "mod": "+4",
+        "save": "+4"
+      },
+      "INT": {
+        "total": "3",
+        "mod": "-4",
+        "save": "-4"
+      },
+      "WIS": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CHA": {
+        "total": "5",
+        "mod": "-3",
+        "save": "-3"
+      }
+    },
+    "skills": "Perception +4",
+    "senses": "Passive Perception 14",
+    "languages": "None",
+    "CR": "5 (XP 1,800; PB +3)",
+    "actions": "<b>Multiattack.</b> The axe beak makes one Sharpened Beak attack and one Talons attack.<br><br><b>Sharpened Beak.</b> Melee Attack Roll: +8, reach 10 ft. <i>Hit:</i> 18 (2d12 + 5) Slashing damage, and a creature within 5 feet of the target (axe beak's choice) takes 6 (1d12) Slashing damage.<br><br><b>Talons.</b> Melee Attack Roll: +8, reach 5 ft. <i>Hit:</i> 14 (2d8 + 5) Piercing damage. If the target is a Large or smaller creature, it has the Prone condition."
+  }
+]

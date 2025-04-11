@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Brazen Gorgon",
+    "type": "Large Construct, Unaligned",
+    "alignment": "Unaligned",
+    "AC": "19",
+    "HP": "161 (17d10 + 68)",
+    "initiative": "+2 (12)",
+    "speed": "40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+8"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "-"
+      },
+      "CON": {
+        "total": "19",
+        "mod": "+4",
+        "save": "+4"
+      },
+      "INT": {
+        "total": "2",
+        "mod": "-4",
+        "save": "-4"
+      },
+      "WIS": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "CHA": {
+        "total": "7",
+        "mod": "-2",
+        "save": "-2"
+      }
+    },
+    "skills": "Perception +10",
+    "immunities": "Fire; Exhaustion, Petrified",
+    "senses": "Darkvision 60 ft.; Passive Perception 20",
+    "languages": "None",
+    "CR": "9 (XP 5,000; PB +4)",
+    "traits": "<b>Flame Aura.</b> At the end of each of the gorgon's turns, each creature in a 5-foot Emanation originating from the gorgon takes 13 (3d8) Fire damage.<br><b>Illumination.</b> The gorgon sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.",
+    "actions": "<b>Multiattack.</b> The gorgon makes two Gore attacks.<br><b>Gore.</b> Melee Attack Roll: +8, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage plus 10 (3d6) Fire damage.<br><b>Smelting Charge (Recharge 5-6).</b> The gorgon moves up to its Speed without provoking Opportunity Attacks and can move through the spaces of Medium or smaller creatures. Each time the gorgon enters a creature’s space for the first time during this move, that target is subjected to the following effect. <i>Dexterity Saving Throw:</i> DC 16. <i>Failure:</i> 13 (2d8 + 4) Piercing damage plus 13 (3d8) Fire damage, and the target is pulled into the gorgon's space and has the Grappled condition (escape DC 14); if the gorgon already has a creature Grappled, the target has the Prone condition instead. Until the grapple ends, the target has the Restrained condition. When the gorgon moves, the Grappled target moves with it, costing no extra movement."
+  }
+]

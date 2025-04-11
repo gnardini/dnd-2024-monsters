@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Death Knight Aspirant",
+    "type": "Medium or Small Undead",
+    "alignment": "Chaotic Evil",
+    "AC": "20",
+    "HP": "178 (21d8 + 84)",
+    "initiative": "+4 (14)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "20",
+        "mod": "+5",
+        "save": "+5"
+      },
+      "DEX": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+4"
+      },
+      "CON": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+4"
+      },
+      "INT": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "WIS": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+5"
+      },
+      "CHA": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+3"
+      }
+    },
+    "immunities": "Necrotic, Poison; Exhaustion, Frightened, Poisoned",
+    "senses": "Darkvision 120 ft.; Passive Perception 11",
+    "languages": "Abyssal, Common",
+    "CR": "11 (7,200 XP; PB +4)",
+    "traits": "<b>Magic Resistance.</b> The aspirant has Advantage on saving throws against spells and other magical effects.<br /><b>Marshal Undead.</b> Undead creatures of the aspirant's choice (excluding itself) in a 60-foot Emanation originating from it have Advantage on attack rolls and saving throws. It can't use this trait if it has the Incapacitated condition.",
+    "actions": "<b>Multiattack.</b> The aspirant makes three Dread Blade attacks.<br /><b>Dread Blade.</b> <i>Melee Attack</i>: Roll +9, reach 5 ft. <i>Hit:</i> 14 (2d8 + 5) Slashing damage plus 10 (3d6) Necrotic damage.<br /><b>Hellfire Orb (Recharge 5–6).</b> <i>Dexterity Saving Throw</i>: DC 15, each creature in a 20-foot-radius Sphere centered on a point the aspirant can see within 120 feet of itself. <i>Failure:</i> 21 (6d6) Fire damage plus 21 (6d6) Necrotic damage. <i>Success:</i> Half damage.<br /><b>Spellcasting.</b> The aspirant casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 15):<br />At Will: <i>Phantom Steed</i><br />1/Day: <i>Destructive Wave</i> (Necrotic), <i>Dispel Magic</i>",
+    "reactions": "<b>Parry.</b> <i>Trigger:</i> The aspirant is hit by a melee attack roll while holding a weapon. <i>Response:</i> The aspirant adds 4 to its AC against that attack, possibly causing it to miss."
+  }
+]

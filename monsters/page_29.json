@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Black Dragon Wyrmling",
+    "type": "Medium Dragon (Chromatic)",
+    "alignment": "Chaotic Evil",
+    "AC": "17",
+    "HP": "33 (5d8 + 6)",
+    "initiative": "+4 (14)",
+    "speed": "30 ft., Fly 60 ft., Swim 30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "15",
+        "mod": "+2",
+        "save": ""
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "CON": {
+        "total": "13",
+        "mod": "+1",
+        "save": ""
+      },
+      "INT": {
+        "total": "10",
+        "mod": "+0",
+        "save": ""
+      },
+      "WIS": {
+        "total": "11",
+        "mod": "+0",
+        "save": ""
+      },
+      "CHA": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      }
+    },
+    "skills": "Perception +4, Stealth +4",
+    "immunities": "Acid",
+    "senses": "Blindsight 10 ft., Darkvision 60 ft., Passive Perception 14",
+    "languages": "Draconic",
+    "CR": "2",
+    "traits": "<b>Amphibious.</b> The dragon can breathe air and water.",
+    "actions": "<b>Multiattack.</b> The dragon makes two Rend attacks. <br><b>Rend.</b> Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage plus 2 (1d4) Acid damage.<br><b>Acid Breath (Recharge 5–6).</b> Dexterity Saving Throw: DC 11, each creature in a 15-foot-long, 5-foot-wide line. <i>Failure:</i> 22 (5d8) Acid damage. <i>Success:</i> Half damage."
+  },
+  {
+    "name": "Young Black Dragon",
+    "type": "Large Dragon (Chromatic)",
+    "alignment": "Chaotic Evil",
+    "AC": "18",
+    "HP": "127 (15d10 + 45)",
+    "initiative": "+5 (15)",
+    "speed": "40 ft., Fly 80 ft., Swim 40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "19",
+        "mod": "+4",
+        "save": ""
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+5"
+      },
+      "CON": {
+        "total": "17",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "INT": {
+        "total": "12",
+        "mod": "+1",
+        "save": ""
+      },
+      "WIS": {
+        "total": "11",
+        "mod": "+0",
+        "save": ""
+      },
+      "CHA": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+2"
+      }
+    },
+    "skills": "Perception +6, Stealth +5",
+    "immunities": "Acid",
+    "senses": "Blindsight 30 ft., Darkvision 120 ft., Passive Perception 16",
+    "languages": "Common, Draconic",
+    "CR": "7",
+    "traits": "<b>Amphibious.</b> The dragon can breathe air and water.",
+    "actions": "<b>Multiattack.</b> The dragon makes three Rend attacks. <br><b>Rend.</b> Melee Attack Roll: +7, reach 10 ft. Hit: 9 (2d4 + 4) Slashing damage plus 3 (1d6) Acid damage.<br><b>Acid Breath (Recharge 5–6).</b> Dexterity Saving Throw: DC 14, each creature in a 30-foot-long, 5-foot-wide line. <i>Failure:</i> 49 (14d6) Acid damage. <i>Success:</i> Half damage."
+  }
+]

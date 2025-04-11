@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Monster Viewer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Monsters</h1>
+  <input id="search" type="text" placeholder="Search name, type, etc..." />
+  <select id="crFilter">
+    <option value="">All CRs</option>
+  </select>
+  <table id="monsterTable">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Type</th>
+        <th>CR</th>
+        <th>HP</th>
+        <th>AC</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+  <div id="monsterDetail" class="hidden"></div>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Cambion",
+    "type": "Medium Fiend",
+    "alignment": "Neutral Evil",
+    "AC": "19",
+    "HP": "105 (14d8 + 42)",
+    "initiative": "+4 (14)",
+    "speed": "30 ft., Fly 60 ft.",
+    "abilities": {
+      "STR": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+7"
+      },
+      "DEX": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+4"
+      },
+      "CON": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "INT": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+5"
+      },
+      "WIS": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CHA": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+6"
+      }
+    },
+    "skills": "Deception +6, Perception +4, Stealth +7",
+    "resistances": "Cold, Fire, Lightning",
+    "immunities": "Poisoned",
+    "senses": "Darkvision 60 ft.; Passive Perception 14",
+    "languages": "Abyssal, Common, Infernal",
+    "CR": "5 (1,800; PB +3)",
+    "actions": "<ul><li><strong>Multiattack.</strong> The cambion makes two attacks, using <em>Claw</em> or <em>Fire Ray</em> in any combination.</li><li><strong>Claw.</strong> <em>Melee Attack Roll</em>: +7, reach 5 ft. <em>Hit:</em> 8 (1d8 + 4) slashing damage plus 7 (2d6) fire damage.</li><li><strong>Fire Ray.</strong> <em>Ranged Attack Roll:</em> +7, range 120 ft. <em>Hit:</em> 13 (3d6 + 3) fire damage.</li><li><strong>Spellcasting.</strong> The cambion casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14):</li><li><strong>2/Day Each:</strong> <em>Alter Self, Command</em> (level 3 version)</li><li><strong>1/Day Each:</strong> <em>Dominate Person</em> (level 8 version), <em>Plane Shift</em> (self only)</li></ul>"
+  }
+]

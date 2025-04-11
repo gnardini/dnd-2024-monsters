@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Bulette",
+    "type": "Large Monstrosity",
+    "alignment": "Unaligned",
+    "AC": "17",
+    "HP": "94 (9d10 + 45)",
+    "initiative": "+0 (10)",
+    "speed": "40 ft., Burrow 40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "19",
+        "mod": "+4",
+        "save": "+7"
+      },
+      "DEX": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CON": {
+        "total": "21",
+        "mod": "+5",
+        "save": "+8"
+      },
+      "INT": {
+        "total": "2",
+        "mod": "-4",
+        "save": "-4"
+      },
+      "WIS": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CHA": {
+        "total": "5",
+        "mod": "-3",
+        "save": "-3"
+      }
+    },
+    "skills": "Perception +6",
+    "senses": "Darkvision 60 ft., Tremorsense 120 ft.; Passive Perception 16",
+    "languages": "None",
+    "CR": "5 (XP 1,800; PB +3)",
+    "actions": "<b>Multiattack.</b> The bulette makes two Bite attacks.<br><b>Bite.</b> Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing damage.<br><b>Deadly Leap.</b> The bulette spends 5 feet of movement to jump to a space within 15 feet that contains one or more Large or smaller creatures. <i>Dexterity Saving Throw:</i> DC 15, each creature in the bulette's destination space. Failure: 19 (3d12) Bludgeoning damage, and the target has the Prone condition. Success: Half damage, and the target is pushed 5 feet straight away from the bulette.",
+    "bonus_actions": "<b>Leap.</b> The bulette jumps up to 30 feet by spending 10 feet of movement."
+  },
+  {
+    "name": "Bulette Pup",
+    "type": "Medium Monstrosity",
+    "alignment": "Unaligned",
+    "AC": "16",
+    "HP": "45 (6d8 + 18)",
+    "initiative": "-1 (9)",
+    "speed": "30 ft., Burrow 20 ft.",
+    "abilities": {
+      "STR": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+5"
+      },
+      "DEX": {
+        "total": "8",
+        "mod": "-1",
+        "save": "-1"
+      },
+      "CON": {
+        "total": "17",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "INT": {
+        "total": "2",
+        "mod": "-4",
+        "save": "-4"
+      },
+      "WIS": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CHA": {
+        "total": "4",
+        "mod": "-3",
+        "save": "-3"
+      }
+    },
+    "skills": "Perception +4",
+    "senses": "Darkvision 30 ft., Tremorsense 60 ft.; Passive Perception 14",
+    "languages": "None",
+    "CR": "2 (XP 450; PB +2)",
+    "actions": "<b>Bite.</b> Melee Attack Roll: +5, reach 5 ft. Hit: 14 (2d10 + 3) Piercing damage.",
+    "bonus_actions": "<b>Leap.</b> The bulette jumps up to 30 feet by spending 10 feet of movement."
+  }
+]

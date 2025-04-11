@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Bandit Deceiver",
+    "type": "Medium or Small Humanoid",
+    "alignment": "Neutral",
+    "AC": "16",
+    "HP": "130 (20d8 + 40)",
+    "initiative": "+6 (16)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "8",
+        "mod": "-1",
+        "save": "-"
+      },
+      "DEX": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+6"
+      },
+      "CON": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+"
+      },
+      "INT": {
+        "total": "17",
+        "mod": "+3",
+        "save": "+6"
+      },
+      "WIS": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CHA": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+3"
+      }
+    },
+    "skills": "Acrobatics +6, Perception +4, Stealth +9\nGear Daggers (6), Wand",
+    "senses": "Passive Perception 14",
+    "languages": "Common, Thieves’ Cant",
+    "CR": "7 (XP 2,900; PB +3)",
+    "traits": "\nAt Will: Disguise Self, Mage Hand, Minor Illusion\n1/Day Each: Hold Person (level 4 version), Mage Armor (included in AC), Major Image",
+    "actions": "<strong>Actions</strong><br /><ul><li><strong>Multiattack.</strong> The bandit makes three Dagger attacks.</li><li><strong>Dagger.</strong> Melee or Ranged Attack Roll: +6, reach 5 ft. or range 20/60 ft. Hit: 8 (2d4 + 3) Piercing damage plus 10 (3d6) Poison damage.</li><li><strong>Binding Flash (Recharge 4–6).</strong> Constitution Saving Throw: DC 14, each creature in a 10-foot-radius Sphere centered on a point the bandit can see within 120 feet. Failure: 13 (3d6 + 3) Radiant damage, and the target has the Blinded condition until the start of the bandit’s next turn. Success: Half damage only.</li><li><strong>Spellcasting.</strong> The bandit casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):</li></ul>"
+  },
+  {
+    "name": "Bandit Crime Lord",
+    "type": "Medium or Small Humanoid",
+    "alignment": "Neutral",
+    "AC": "17",
+    "HP": "169 (26d8 + 52)",
+    "initiative": "+9 (19)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+"
+      },
+      "DEX": {
+        "total": "20",
+        "mod": "+5",
+        "save": "+9"
+      },
+      "CON": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+6"
+      },
+      "INT": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+"
+      },
+      "WIS": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+"
+      },
+      "CHA": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+"
+      }
+    },
+    "skills": "Acrobatics +9, Perception +10, Stealth +13\nGear Pistols (2), Scimitar, Studded Leather Armor",
+    "senses": "Passive Perception 20",
+    "languages": "Common, Thieves’ Cant",
+    "CR": "11 (XP 7,200; PB +4)",
+    "traits": "<strong>Evasion.</strong> If the bandit is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the bandit instead takes no damage if it succeeds on the save and only half damage if it fails. It can’t use this trait if it has the Incapacitated condition.",
+    "actions": "<strong>Actions</strong><br /><ul><li><strong>Multiattack.</strong> The bandit makes three attacks, using Scimitar or Pistol in any combination.</li><li><strong>Scimitar.</strong> Melee Attack Roll: +9, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage plus 14 (4d6) Poison damage.</li><li><strong>Pistol.</strong> Ranged Attack Roll: +9, range 30/90 ft. Hit: 10 (1d10 + 5) Piercing damage plus 14 (4d6) Poison damage.</li></ul>",
+    "bonus_actions": "<strong>Bonus Actions</strong><br /><ul><li><strong>Deadly Aim.</strong> The bandit gives itself Advantage on the next attack roll it makes during the current turn. If that attack hits, the target takes an extra 28 (8d6) Poison damage.</li></ul>"
+  }
+]

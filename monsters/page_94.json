@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dragon Turtle",
+    "type": "Gargantuan Dragon",
+    "alignment": "Neutral",
+    "AC": "20",
+    "HP": "356 (23d20 + 115)",
+    "initiative": "+6 (16)",
+    "speed": "20 ft., Swim 50 ft.",
+    "abilities": {
+      "STR": {
+        "total": "25",
+        "mod": "+7",
+        "save": "+7"
+      },
+      "DEX": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "CON": {
+        "total": "20",
+        "mod": "+5",
+        "save": "+11"
+      },
+      "INT": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "WIS": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+7"
+      },
+      "CHA": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      }
+    },
+    "skills": "",
+    "resistances": "Fire",
+    "senses": "Darkvision 120 ft.; Passive Perception 11",
+    "languages": "Draconic, Primordial (Aquan)",
+    "CR": "17 (XP 18,000; PB +6)",
+    "traits": "<i>Amphibious.</i> The dragon can breathe air and water.",
+    "actions": "<b>Multiattack.</b> The dragon makes three Bite attacks. It can replace one attack with a Tail attack.<br><b>Bite.</b> Melee Attack +13, reach 15 ft. <i>Hit:</i> 23 (3d10 + 7) Piercing damage plus 7 (2d6) Fire damage. Being underwater doesn’t grant Resistance to this Fire damage.<br><b>Tail.</b> Melee Attack +13, reach 15 ft. <i>Hit:</i> 18 (2d10 + 7) Bludgeoning damage. If the target is a Huge or smaller creature, it must succeed a DC 20 Strength saving throw or be Prone.<br><b>Steam Breath (Recharge 5–6).</b> Constitution Saving Throw: DC 19, each creature in a 60-foot Cone. <i>Failure:</i> 56 (16d6) Fire damage. <i>Success:</i> Half damage. <i>Failure or Success:</i> Being underwater doesn’t grant Resistance to this Fire damage."
+  }
+]

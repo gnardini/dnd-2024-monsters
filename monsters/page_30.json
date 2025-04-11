@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Adult Black Dragon",
+    "type": "Huge Dragon (Chromatic)",
+    "alignment": "Chaotic Evil",
+    "AC": "19",
+    "HP": "195 (17d12 + 85)",
+    "initiative": "+12 (22)",
+    "speed": "40 ft., fly 80 ft., Swim 40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "23",
+        "mod": "+6",
+        "save": "+12"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+4"
+      },
+      "CON": {
+        "total": "21",
+        "mod": "+5",
+        "save": "+5"
+      },
+      "INT": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "WIS": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CHA": {
+        "total": "19",
+        "mod": "+4",
+        "save": "+4"
+      }
+    },
+    "skills": "Perception +11, Stealth +7",
+    "immunities": "Acid",
+    "senses": "Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21",
+    "languages": "Common, Draconic",
+    "CR": "14 (XP 11,500, or 13,000 in lair; PB +5)",
+    "traits": "<b>Amphibious.</b> The dragon can breathe air and water.<br><b>Legendary Resistance (3/Day, or 4/Day in Lair).</b> If the dragon fails a saving throw, it can choose to succeed instead.",
+    "actions": "<b>Multiattack.</b> The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast <i>Melf’s Acid Arrow</i> (level 3 version).<br><b>Rend.</b> Melee Attack: +11, reach 10 ft. Hit: 13 (2d6 + 6) Slashing damage plus 4 (1d8) Acid damage.<br><b>Acid Breath (Recharge 5–6).</b> Dexterity Saving Throw: DC 18, each creature in a 60-foot-long, 5-foot-wide line. <br> <i>Failure:</i> 54 (12d8) Acid damage. <i>Success:</i> Half damage.<br><b>Spellcasting.</b> The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):<br> At Will: <i>Detect Magic, Fear, Melf’s Acid Arrow</i> (level 3 version)<br> 1/Day Each: <i>Speak with Dead, Vitriolic Sphere</i>",
+    "legendary_actions": "<b>Legendary Action Uses: 3 (4 in Lair).</b> Immediately after another creature’s turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.<br><b>Cloud of Insects.</b> Dexterity Saving Throw: DC 17, one creature the dragon can see within 120 feet. <i>Failure:</i> 22 (4d10) Poison damage, and the target has Disadvantage on saving throws to maintain Concentration until the end of its next turn. <i>Failure or Success:</i> The dragon can’t take this action again until the start of its next turn.<br><b>Frightful Presence.</b> The dragon uses Spellcasting to cast <i>Fear.</i> The dragon can’t take this action again until the start of its next turn.<br><b>Pounce.</b> The dragon moves up to half its Speed, and it makes one Rend attack."
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Iron Golem",
+    "type": "Large Construct",
+    "alignment": "Unaligned",
+    "AC": "20",
+    "HP": "252 (24d10 + 120)",
+    "initiative": "+9 (19)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "24",
+        "mod": "+7",
+        "save": "+7"
+      },
+      "DEX": {
+        "total": "9",
+        "mod": "-1",
+        "save": "-1"
+      },
+      "CON": {
+        "total": "20",
+        "mod": "+5",
+        "save": "+5"
+      },
+      "INT": {
+        "total": "3",
+        "mod": "-4",
+        "save": "-4"
+      },
+      "WIS": {
+        "total": "11",
+        "mod": "0",
+        "save": "0"
+      },
+      "CHA": {
+        "total": "1",
+        "mod": "-5",
+        "save": "-5"
+      }
+    },
+    "immunities": "Fire, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned",
+    "senses": "Darkvision 120 ft.; Passive Perception 10",
+    "languages": "Understands Common plus two other languages but can’t speak",
+    "CR": "16 (XP 15,000; PB +5)",
+    "traits": "<b>Fire Absorption.</b> Whenever the golem is subjected to Fire damage, it regains a number of Hit Points equal to the Fire damage dealt.<br><b>Immutable Form.</b> The golem can't shape-shift.<br><b>Magic Resistance.</b> The golem has Advantage on saving throws against spells and other magical effects.",
+    "actions": "<b>Multiattack.</b> The golem makes two attacks, using Bladed Arm or Fiery Bolt in any combination.<br><b>Bladed Arm.</b> Melee Attack Roll: +12, reach 10 ft. Hit: 20 (3d8 + 7) Slashing damage plus 10 (3d6) Fire damage.<br><b>Fiery Bolt.</b> Ranged Attack Roll: +10, range 120 ft. Hit: 36 (8d8) Fire damage.<br><b>Poison Breath (Recharge 6).</b> Constitution Saving Throw: DC 18, each creature in a 60-foot Cone. <br><i>Failure:</i> 55 (10d10) Poison damage. <i>Success:</i> Half damage."
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Bone Naga",
+    "type": "Large Undead",
+    "alignment": "Neutral Evil",
+    "AC": "15",
+    "HP": "65 (10d10 + 10)",
+    "initiative": "+3 (13)",
+    "speed": "40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "DEX": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "CON": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "INT": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "WIS": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "CHA": {
+        "total": "15",
+        "mod": "+2",
+        "save": "+2"
+      }
+    },
+    "skills": "",
+    "immunities": "Poison; Charmed, Exhaustion, Paralyzed, Poisoned",
+    "senses": "Darkvision 60 ft.; Passive Perception 12",
+    "languages": "Common plus one other language",
+    "CR": "4 (XP 1,100; PB +2)",
+    "actions": "<b>Multiattack.</b> The naga makes two Bite attacks. It can replace any attack with a use of Serpentine Gaze.<br><b>Bite.</b> Melee Attack <i>Roll:</i> +5, reach 10 ft. <i>Hit:</i> 10 (2d6 + 3) Piercing damage plus 7 (2d6) Necrotic damage.<br><b>Serpentine Gaze.</b> Wisdom Saving Throw: DC 13, one creature the naga can see within 60 feet. <i>Failure:</i> 13 (3d6 + 3) Psychic damage, and the target has the Charmed condition until the start of the naga's next turn.<br><b>Spellcasting.</b> The naga casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 13):<br><i>At Will:</i> Mage Hand, Thaumaturgy<br><i>1/Day Each:</i> Command, Detect Thoughts, Lightning Bolt"
+  }
+]

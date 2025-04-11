@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Dao",
+    "type": "Large Elemental (Genie)",
+    "alignment": "Neutral",
+    "AC": "18",
+    "HP": "200 (16d10 + 112)",
+    "initiative": "+1 (11)",
+    "speed": "30 ft., Burrow 30 ft., Fly 30 ft. (hover)",
+    "abilities": {
+      "STR": {
+        "total": "23",
+        "mod": "+6",
+        "save": "+6"
+      },
+      "DEX": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CON": {
+        "total": "24",
+        "mod": "+7",
+        "save": "+7"
+      },
+      "INT": {
+        "total": "12",
+        "mod": "+1",
+        "save": "-1"
+      },
+      "WIS": {
+        "total": "13",
+        "mod": "+1",
+        "save": "-1"
+      },
+      "CHA": {
+        "total": "18",
+        "mod": "+4",
+        "save": "+4"
+      }
+    },
+    "immunities": "Petrified",
+    "senses": "Darkvision 120 ft.; Passive Perception 11",
+    "languages": "Primordial (Terran)",
+    "CR": "11 (XP 7,200; PB +4)",
+    "traits": "<strong>Earth Glide.</strong> The dao can burrow through nonmagical, unworked earth and stone. While doing so, the dao doesn’t disturb the material it moves through.<br><strong>Elemental Restoration.</strong> If the dao dies outside the Elemental Plane of Earth, its body dissolves into dirt, and it gains a new body in 1d4 days, reviving with all its Hit Points somewhere on the Plane of Earth.<br><strong>Magic Resistance.</strong> The dao has Advantage on saving throws against spells and other magical effects.<br><strong>Wishes.</strong> The dao has a 30 percent chance of knowing the Wish spell. If the dao does know it, the dao can cast it only on behalf of a non-genie creature who communicates a wish in a way the dao can understand. If the dao casts the spell for the creature, the dao suffers none of the spell’s stress. Once the dao has cast it three times, the dao can’t do so again for 365 days.",
+    "actions": "<strong>Multiattack.</strong> The dao makes three Earthen Maul attacks or two Earth Burst attacks.<br><strong>Earthen Maul.</strong> Melee Attack Roll: +10, reach 5 ft. Hit: 20 (4d6 + 6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.<br><strong>Earth Burst.</strong> Ranged Attack Roll: +10, range 120 ft. Hit: 15 (2d8 + 6) Bludgeoning damage. <em>Hit or Miss:</em> Earth explodes from the target’s space, creating the following effect. <em>Dexterity Saving Throw:</em> DC 16, each creature in a 10-foot Emanation originating from and including the target. <em>Failure:</em> 10 (3d6) Thunder damage.<br><strong>Spellcasting.</strong> The dao casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 16):<br>At Will: <em>Detect Evil and Good, Detect Magic, Stone Shape</em><br>1/Day Each: <em>Gaseous Form, Invisibility, Move Earth, Passwall, Plane Shift, Tongues, Wall of Stone</em>"
+  }
+]

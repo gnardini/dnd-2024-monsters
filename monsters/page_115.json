@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Frost Giant",
+    "type": "Huge Giant",
+    "alignment": "Neutral Evil",
+    "AC": "15",
+    "HP": "149 (13d12 + 65)",
+    "initiative": "+2 (12)",
+    "speed": "40 ft.",
+    "abilities": {
+      "STR": {
+        "total": "23",
+        "mod": "+6",
+        "save": "-"
+      },
+      "DEX": {
+        "total": "9",
+        "mod": "-1",
+        "save": "-"
+      },
+      "CON": {
+        "total": "21",
+        "mod": "+5",
+        "save": "+8"
+      },
+      "INT": {
+        "total": "9",
+        "mod": "-1",
+        "save": "-"
+      },
+      "WIS": {
+        "total": "10",
+        "mod": "+0",
+        "save": "-"
+      },
+      "CHA": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+4"
+      }
+    },
+    "skills": "Athletics +9, Perception +3",
+    "immunities": "Cold",
+    "senses": "Passive Perception 13",
+    "languages": "Giant",
+    "CR": "8 (XP 3,900; PB +3)",
+    "actions": "<p><b>Multiattack.</b> The giant makes two attacks, using Frost Axe or Great Bow in any combination.</p> <p><b>Frost Axe.</b> Melee Attack Roll: +9, reach 10 ft. Hit: 19 (2d12 + 6) Slashing damage plus 9 (2d8) Cold damage.</p> <p><b>Great Bow.</b> Ranged Attack Roll: +9, range 150/600 ft. Hit: 17 (2d10 + 6) Piercing damage plus 7 (2d6) Cold damage, and the target’s Speed decreases by 10 feet until the end of its next turn.</p>",
+    "bonus_actions": "<p><b>War Cry (Recharge 5–6).</b> The giant or one creature of its choice that can see or hear it gains 16 (2d10 + 5) Temporary Hit Points and has Advantage on attack rolls until the start of the giant’s next turn.</p>"
+  }
+]

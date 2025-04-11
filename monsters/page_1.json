@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Aarakocra Aeromancer",
+    "type": "Medium Elemental",
+    "alignment": "Neutral",
+    "AC": "16",
+    "HP": "66 (12d8 + 12)",
+    "initiative": "+3 (13)",
+    "speed": "20 ft., Fly 50 ft.",
+    "abilities": {
+      "STR": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "DEX": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+5"
+      },
+      "CON": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "INT": {
+        "total": "13",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "WIS": {
+        "total": "17",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "CHA": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      }
+    },
+    "skills": "Arcana +3, Nature +5, Perception +7",
+    "senses": "Passive Perception 17",
+    "languages": "Aarakocra, Primordial (Auran)",
+    "CR": "4 (1,100; PB +2)",
+    "actions": "<strong>Multiattack.</strong> The aarakocra makes two Wind Staff attacks, and it can use Spellcasting to cast Gust of Wind. <br/><strong>Wind Staff.</strong> Melee or Ranged Attack Roll: +5, reach 5 ft. or range 120 ft. Hit: 7 (1d8 + 3) Bludgeoning damage plus 11 (2d10) Lightning damage.<br/><strong>Spellcasting.</strong> The aarakocra casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 13): At Will: <em>Elementalism, Gust of Wind, Mage Hand, Message</em> 1/Day: <em>Lightning Bolt</em>.",
+    "reactions": "<strong>Feather Fall (1/Day).</strong> The aarakocra casts Feather Fall in response to that spell’s trigger, using the same spellcasting ability as Spellcasting."
+  },
+  {
+    "name": "Aarakocra Skirmisher",
+    "type": "Medium Elemental",
+    "alignment": "Neutral",
+    "AC": "12",
+    "HP": "11 (2d8 + 2)",
+    "initiative": "+2 (12)",
+    "speed": "20 ft., Fly 50 ft.",
+    "abilities": {
+      "STR": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "DEX": {
+        "total": "14",
+        "mod": "+2",
+        "save": "+2"
+      },
+      "CON": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "INT": {
+        "total": "10",
+        "mod": "+0",
+        "save": "+0"
+      },
+      "WIS": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "CHA": {
+        "total": "11",
+        "mod": "+0",
+        "save": "+0"
+      }
+    },
+    "skills": "Perception +5",
+    "senses": "Passive Perception 15",
+    "languages": "Aarakocra, Primordial (Auran)",
+    "CR": "1/4 (XP 50; PB +2)",
+    "actions": "<strong>Talons.</strong> Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage, or 9 (3d4 + 2) Slashing damage if the aarakocra moved 30+ feet straight toward the target immediately before the hit.<br/><strong>Wind Javelin.</strong> Melee or Ranged Attack Roll: +4, reach 5 ft. or range 30/120 ft. Hit: 5 (1d6 + 2) Piercing damage plus 2 (1d4) Thunder damage. Hit or Miss: The javelin magically returns to the aarakocra’s hand immediately after a ranged attack."
+  }
+]

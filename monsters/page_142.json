@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Gray Ooze",
+    "type": "Medium Ooze",
+    "alignment": "Unaligned",
+    "AC": "8",
+    "HP": "22 (3d8 + 9)",
+    "initiative": "-2 (13)",
+    "speed": "10 ft., Climb 10 ft.",
+    "abilities": {
+      "STR": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "DEX": {
+        "total": "6",
+        "mod": "-2",
+        "save": "-2"
+      },
+      "CON": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "INT": {
+        "total": "1",
+        "mod": "-5",
+        "save": "-5"
+      },
+      "WIS": {
+        "total": "6",
+        "mod": "-2",
+        "save": "-2"
+      },
+      "CHA": {
+        "total": "2",
+        "mod": "-4",
+        "save": "-4"
+      }
+    },
+    "skills": "Stealth +2",
+    "resistances": "Acid, Cold, Fire",
+    "immunities": "Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained",
+    "senses": "Blindsight 60 ft.; Passive Perception 8",
+    "languages": "None",
+    "CR": "1/2 (XP 100; PB +2)",
+    "traits": "<i>Amorphous.</i> The ooze can move through a space as narrow as 1 inch without expending extra movement to do so. <p> <i>Corrosive Form.</i></p> Nonmagical ammunition is destroyed immediately after hitting the ooze and dealing any damage. Any nonmagical weapon takes a cumulative -1 penalty to attack rolls immediately after dealing damage to the ooze and coming into contact with it. The weapon is destroyed if the penalty reaches -5. The penalty can be removed by casting the&nbsp;<i> Mending</i>&nbsp; spell on the weapon. The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.",
+    "actions": "<i>Pseudopod.</i></p> Melee Attack Roll: +3, reach 5 ft. <i> Hit:</i> 10 (2d8 + 1) Acid damage. Nonmagical armor worn by the target takes a -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10. The penalty can be removed by casting the <i> Mending</i> spell on the armor."
+  },
+  {
+    "name": "Psychic Gray Ooze",
+    "type": "Medium Ooze",
+    "alignment": "Unaligned",
+    "AC": "9",
+    "HP": "37 (5d8 + 15)",
+    "initiative": "-1 (14)",
+    "speed": "10 ft., Climb 10 ft.",
+    "abilities": {
+      "STR": {
+        "total": "12",
+        "mod": "+1",
+        "save": "+1"
+      },
+      "DEX": {
+        "total": "8",
+        "mod": "-1",
+        "save": "-1"
+      },
+      "CON": {
+        "total": "16",
+        "mod": "+3",
+        "save": "+3"
+      },
+      "INT": {
+        "total": "10",
+        "mod": "0",
+        "save": "0"
+      },
+      "WIS": {
+        "total": "6",
+        "mod": "-2",
+        "save": "-2"
+      },
+      "CHA": {
+        "total": "2",
+        "mod": "-4",
+        "save": "-4"
+      }
+    },
+    "skills": "Stealth +3",
+    "resistances": "Acid, Cold, Fire, Psychic",
+    "immunities": "Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained",
+    "senses": "Blindsight 60 ft.; Passive Perception 8",
+    "languages": "None",
+    "CR": "1 (XP 200; PB +2)",
+    "traits": "<i>Amorphous.</i> The ooze can move through a space as narrow as 1 inch without expending extra movement to do so.",
+    "actions": "<i>Pseudopod.</i></p> Melee Attack Roll: +3, reach 5 ft. <i> Hit:</i> 11 (3d6 + 1) Acid damage, and the target has Disadvantage on Intelligence saving throws until the end of the ooze’s next turn. <p><i> Psychic Crush.</i> Intelligence Saving Throw: DC 10, one creature the ooze can see within 60 feet. <i> Failure:</i> 13 (3d8) Psychic damage.",
+    "reactions": "<i>Mind Corrosion.</i> <p><i> Trigger:</i> The ooze fails a saving throw against a spell or another magical effect created by a creature. <i> Response:</i> The triggering creature takes 3 (1d6) Psychic damage."
+  }
+]

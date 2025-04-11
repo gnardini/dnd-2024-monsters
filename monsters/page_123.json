@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Ghoul",
+    "type": "Medium Undead",
+    "alignment": "Chaotic Evil",
+    "AC": "12",
+    "HP": "22 (5d8)",
+    "initiative": "+2 (12)",
+    "speed": "30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "13",
+        "mod": "+1",
+        "save": "-"
+      },
+      "DEX": {
+        "total": "15",
+        "mod": "+2",
+        "save": "-"
+      },
+      "CON": {
+        "total": "10",
+        "mod": "+0",
+        "save": "-"
+      },
+      "INT": {
+        "total": "7",
+        "mod": "-2",
+        "save": "-"
+      },
+      "WIS": {
+        "total": "10",
+        "mod": "+0",
+        "save": "-"
+      },
+      "CHA": {
+        "total": "6",
+        "mod": "-2",
+        "save": "-"
+      }
+    },
+    "immunities": "Poison; Charmed, Exhaustion, Poisoned",
+    "senses": "Darkvision 60 ft.; Passive Perception 10",
+    "languages": "Common",
+    "CR": "1 (XP 200; PB +2)",
+    "actions": "<b>Multiattack.</b> The ghoul makes two Bite attacks. <b>Bite.</b> Melee Attack Roll: +4, reach 5 ft. <i>Hit:</i> 5 (1d6 + 2) Piercing damage plus 3 (1d6) Necrotic damage. <b>Claw.</b> Melee Attack Roll: +4, reach 5 ft. <i>Hit:</i> 4 (1d4 + 2) Slashing damage. If the target is a creature that isn’t an Undead or elf, it is subjected to the following effect. <i>Constitution Saving Throw:</i> DC 10. <i>Failure:</i> The target has the Paralyzed condition until the end of its next turn."
+  },
+  {
+    "name": "Lacedon Ghoul",
+    "type": "Medium Undead",
+    "alignment": "Chaotic Evil",
+    "AC": "12",
+    "HP": "22 (5d8)",
+    "initiative": "+2 (12)",
+    "speed": "30 ft., Swim 30 ft.",
+    "abilities": {
+      "STR": {
+        "total": "13",
+        "mod": "+1",
+        "save": "-"
+      },
+      "DEX": {
+        "total": "15",
+        "mod": "+2",
+        "save": "-"
+      },
+      "CON": {
+        "total": "10",
+        "mod": "+0",
+        "save": "-"
+      },
+      "INT": {
+        "total": "7",
+        "mod": "-2",
+        "save": "-"
+      },
+      "WIS": {
+        "total": "10",
+        "mod": "+0",
+        "save": "-"
+      },
+      "CHA": {
+        "total": "6",
+        "mod": "-2",
+        "save": "-"
+      }
+    },
+    "resistances": "Cold",
+    "immunities": "Poison; Charmed, Exhaustion, Poisoned",
+    "senses": "Darkvision 60 ft.; Passive Perception 10",
+    "languages": "Common",
+    "CR": "1 (XP 200; PB +2)",
+    "actions": "<b>Multiattack.</b> The ghoul makes two Icy Bite attacks. <b>Icy Bite.</b> Melee Attack Roll: +4, reach 5 ft. <i>Hit:</i> 9 (2d6 + 2) Cold damage, and the target’s Speed decreases by 5 feet until the start of the ghoul’s next turn. <b>Claw.</b> Melee Attack Roll: +4, reach 5 ft. <i>Hit:</i> 4 (1d4 + 2) Slashing damage. If the target is a creature that isn’t an Undead or elf, it is subjected to the following effect. <i>Constitution Saving Throw:</i> DC 10. <i>Failure:</i> The target has the Paralyzed condition until the end of its next turn.",
+    "bonus_actions": "<b>Watery Rush.</b> While underwater, the ghoul moves up to half its Swim Speed without provoking Opportunity Attacks."
+  }
+]
